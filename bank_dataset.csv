@@ -1,0 +1,1007 @@
+,Type of Account,Account History,Reason for the Loan,Loan Amount,Account Savings,Employment History,Individual Stauts,Other Loans,Security / Collateral,Age,Residence Status,Job,Completed Other loan?,Good Loan
+0,No Data,critical,Learning / Edu purposes,2116.0,0-200,5-7 Years,Male,No,Property - Real Estate,47.0,House Owner,Services,No,No
+1,No Data,critical,TV,2438.0,No Data,7+ Years,Male,No,Savings Account,52.0,House Owner,Skilled Labor,No,No
+2,No Data,critical,Buying a New Car,2144.0,0-200,2-5 Years,Male,No,Vehicle,48.0,House Owner,Skilled Labor,No,No
+3,No Data,critical,Home furniture,2073.0,No Data,2-5 Years,Married,No,Vehicle,25.0,House Owner,Skilled Labor,Yes,No
+4,No Data,critical,Support for Business,1276.0,No Data,7+ Years,Male,No,No Security,59.0,Renting,Services,No,No
+5,No Data,critical,Learning / Edu purposes,6130.0,0-200,2-5 Years,Male,No,No Security,30.0,Free,Skilled Labor,No,No
+6,No Data,critical,Buying a New Car,1394.0,0-200,0-2 Years,Female,No,Vehicle,37.0,House Owner,Professional / Management,No,No
+7,No Data,critical,Buying a New Car,7242.0,0-200,2-5 Years,Male,No,Savings Account,41.0,House Owner,Services,No,No
+8,No Data,critical,TV,9581.0,0-200,2-5 Years,Female,No,Vehicle,31.0,House Owner,Skilled Labor,No,No
+9,No Data,critical,TV,734.0,No Data,7+ Years,Male,No,Savings Account,44.0,Renting,Services,No,No
+10,No Data,critical,Support for Business,1421.0,0-200,2-5 Years,Female,Yes,Property - Real Estate,29.0,House Owner,Professional / Management,No,No
+11,No Data,critical,TV,621.0,0-200,7+ Years,Male,No,Property - Real Estate,58.0,House Owner,Skilled Labor,No,No
+12,No Data,critical,TV,816.0,No Data,7+ Years,Female,No,Savings Account,32.0,House Owner,Services,No,No
+13,No Data,critical,Learning / Edu purposes,2017.0,No Data,5-7 Years,Female,No,Vehicle,61.0,House Owner,Skilled Labor,No,No
+14,No Data,critical,Buying a New Car,7873.0,0-200,2-5 Years,Female,No,Property - Real Estate,24.0,House Owner,Skilled Labor,No,No
+15,No Data,critical,TV,3579.0,No Data,7+ Years,Male,No,Property - Real Estate,45.0,House Owner,Skilled Labor,No,Yes
+16,No Data,critical,Buying a Used Car,3869.0,0-200,7+ Years,Female,No,Vehicle,42.0,Renting,Professional / Management,No,No
+17,No Data,critical,TV,1259.0,No Data,7+ Years,Female,No,Property - Real Estate,38.0,House Owner,Skilled Labor,No,Yes
+18,No Data,critical,Home furniture,2289.0,0-200,0-2 Years,Female,No,Savings Account,25.0,House Owner,Skilled Labor,No,No
+19,No Data,critical,Buying a New Car,699.0,200-500,5-7 Years,Female,No,Vehicle,50.0,House Owner,Skilled Labor,No,Yes
+20,No Data,critical,TV,1595.0,1000+,7+ Years,Male,No,Vehicle,46.0,House Owner,Skilled Labor,No,Yes
+21,No Data,critical,TV,1917.0,No Data,2-5 Years,Male,No,Property - Real Estate,34.0,House Owner,Services,No,Yes
+22,No Data,critical,TV,2875.0,200-500,7+ Years,Male,No,Property - Real Estate,34.0,House Owner,Skilled Labor,No,No
+23,No Data,critical,Buying a New Car,1071.0,0-200,0-2 Years,Female,No,Savings Account,31.0,House Owner,Skilled Labor,No,No
+24,No Data,critical,Home furniture,3785.0,1000+,2-5 Years,Male,No,Property - Real Estate,51.0,House Owner,Skilled Labor,No,No
+25,No Data,critical,TV,1377.0,0-200,2-5 Years,Male,No,Savings Account,30.0,House Owner,Skilled Labor,No,No
+26,No Data,critical,TV,1394.0,0-200,2-5 Years,Female,No,Vehicle,26.0,House Owner,Skilled Labor,No,No
+27,No Data,critical,Learning / Edu purposes,950.0,500-1000,7+ Years,Male,No,Vehicle,54.0,House Owner,Skilled Labor,No,No
+28,No Data,critical,Buying a New Car,1511.0,0-200,7+ Years,Male,No,Property - Real Estate,39.0,House Owner,Services,No,No
+29,No Data,critical,Home furniture,1954.0,0-200,7+ Years,Male,No,Property - Real Estate,43.0,House Owner,Skilled Labor,No,No
+30,No Data,critical,TV,3080.0,No Data,2-5 Years,Male,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,No
+31,No Data,critical,TV,3359.0,No Data,7+ Years,Male,No,Vehicle,50.0,House Owner,Skilled Labor,No,No
+32,No Data,critical,TV,1554.0,0-200,5-7 Years,Male,No,Property - Real Estate,42.0,House Owner,Services,No,No
+33,No Data,critical,TV,1295.0,0-200,2-5 Years,Female,No,Savings Account,35.0,House Owner,Skilled Labor,No,No
+34,No Data,critical,Support for Business,1189.0,0-200,2-5 Years,Female,No,Property - Real Estate,29.0,House Owner,Skilled Labor,No,No
+35,No Data,critical,TV,727.0,0-200,7+ Years,Male,No,Property - Real Estate,51.0,House Owner,Skilled Labor,No,No
+36,No Data,critical,TV,2694.0,0-200,2-5 Years,Male,No,Property - Real Estate,37.0,House Owner,Services,No,No
+37,No Data,critical,TV,1172.0,200-500,Unemployed,Female,No,Property - Real Estate,55.0,House Owner,Services,No,Yes
+38,No Data,critical,Learning / Edu purposes,2750.0,0-200,7+ Years,Female,No,No Security,59.0,Free,Services,No,No
+39,No Data,critical,Buying a New Car,1235.0,0-200,7+ Years,Male,No,Property - Real Estate,33.0,House Owner,Services,Yes,No
+40,No Data,critical,Support for Business,6324.0,No Data,7+ Years,Male,No,Property - Real Estate,38.0,House Owner,Skilled Labor,No,Yes
+41,No Data,critical,Home furniture,1403.0,500-1000,5-7 Years,Female,No,Vehicle,37.0,Renting,Skilled Labor,No,No
+42,No Data,critical,TV,2409.0,0-200,2-5 Years,Female,No,Vehicle,28.0,House Owner,Skilled Labor,No,No
+43,No Data,critical,Buying a Used Car,3373.0,1000+,7+ Years,Male,No,No Security,21.0,Renting,Skilled Labor,No,No
+44,No Data,critical,Home furniture,1525.0,No Data,7+ Years,Male,No,Savings Account,62.0,House Owner,Skilled Labor,No,No
+45,No Data,critical,Support for Business,7643.0,No Data,7+ Years,Divorced,No,Vehicle,47.0,House Owner,Professional / Management,No,No
+46,No Data,critical,Buying a New Car,10141.0,500-1000,2-5 Years,Male,No,No Security,45.0,Free,Skilled Labor,No,No
+47,No Data,critical,Learning / Edu purposes,711.0,0-200,2-5 Years,Male,No,Vehicle,33.0,House Owner,Skilled Labor,No,No
+48,No Data,critical,Buying a New Car,1046.0,0-200,2-5 Years,Female,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,No
+49,No Data,critical,Home furniture,5819.0,No Data,7+ Years,Male,No,Savings Account,51.0,Renting,Skilled Labor,No,No
+50,No Data,critical,Learning / Edu purposes,1873.0,200-500,2-5 Years,Female,No,Property - Real Estate,29.0,House Owner,Skilled Labor,No,No
+51,No Data,critical,Buying a Used Car,11596.0,200-500,2-5 Years,Female,No,Vehicle,26.0,Renting,Services,No,No
+52,No Data,critical,TV,1464.0,0-200,2-5 Years,Female,No,Vehicle,41.0,House Owner,Services,No,No
+53,No Data,critical,Buying a Used Car,3234.0,No Data,Unemployed,Male,No,No Security,38.0,House Owner,Professional / Management,No,No
+54,No Data,critical,TV,2351.0,No Data,7+ Years,Male,Yes,Property - Real Estate,51.0,House Owner,Skilled Labor,No,No
+55,No Data,critical,Buying a Used Car,3862.0,0-200,5-7 Years,Male,No,Vehicle,29.0,House Owner,Skilled Labor,No,No
+56,No Data,critical,TV,6082.0,0-200,7+ Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,No
+57,No Data,critical,Home furniture,2151.0,0-200,0-2 Years,Female,No,Property - Real Estate,24.0,Renting,Skilled Labor,No,No
+58,No Data,critical,Buying a New Car,13771.0,No Data,7+ Years,Male,No,No Security,65.0,Free,Professional / Management,No,Yes
+59,No Data,critical,Buying a New Car,376.0,200-500,2-5 Years,Female,No,Vehicle,50.0,House Owner,Services,No,No
+60,No Data,critical,TV,2253.0,0-200,2-5 Years,Female,No,Vehicle,23.0,House Owner,Skilled Labor,No,No
+61,No Data,critical,Home furniture,2419.0,0-200,Unemployed,Male,No,Vehicle,33.0,House Owner,Professional / Management,No,No
+62,No Data,critical,TV,1517.0,1000+,2-5 Years,Female,No,Property - Real Estate,41.0,House Owner,Services,No,No
+63,No Data,critical,Buying a Used Car,2201.0,No Data,5-7 Years,Male,No,Vehicle,44.0,House Owner,Skilled Labor,No,No
+64,No Data,critical,Buying a Used Car,7257.0,0-200,5-7 Years,Male,No,Vehicle,35.0,House Owner,Professional / Management,No,No
+65,No Data,critical,Support for Business,2309.0,0-200,Unemployed,Male,No,Vehicle,42.0,House Owner,Professional / Management,No,No
+66,No Data,critical,Buying a Used Car,5854.0,0-200,7+ Years,Male,No,Savings Account,34.0,House Owner,Skilled Labor,No,No
+67,No Data,critical,TV,2759.0,0-200,7+ Years,Male,No,Vehicle,29.0,House Owner,Skilled Labor,No,No
+68,No Data,critical,TV,1159.0,1000+,2-5 Years,Male,No,Property - Real Estate,48.0,House Owner,Skilled Labor,No,No
+69,No Data,critical,Renovation,2067.0,0-200,2-5 Years,Divorced,No,Property - Real Estate,33.0,House Owner,Skilled Labor,No,No
+70,No Data,critical,Buying a New Car,1304.0,1000+,7+ Years,Female,No,Property - Real Estate,39.0,House Owner,Skilled Labor,No,No
+71,No Data,critical,Learning / Edu purposes,1257.0,No Data,7+ Years,Female,No,Savings Account,40.0,Renting,Services,No,No
+72,No Data,critical,Buying a Used Car,11059.0,No Data,2-5 Years,Male,No,Vehicle,28.0,House Owner,Professional / Management,No,No
+73,No Data,critical,Buying a New Car,1178.0,500-1000,2-5 Years,Male,No,Property - Real Estate,42.0,House Owner,Skilled Labor,No,Yes
+74,No Data,critical,TV,1939.0,0-200,7+ Years,Male,No,No Security,27.0,House Owner,Skilled Labor,No,No
+75,No Data,critical,TV,1242.0,200-500,2-5 Years,Female,No,Savings Account,25.0,House Owner,Skilled Labor,No,Yes
+76,No Data,critical,Home furniture,1590.0,0-200,5-7 Years,Male,No,Savings Account,42.0,House Owner,Skilled Labor,No,No
+77,No Data,critical,Home furniture,7146.0,0-200,0-2 Years,Female,No,Savings Account,22.0,Renting,Skilled Labor,No,No
+78,No Data,critical,TV,704.0,No Data,7+ Years,Male,No,No Security,34.0,Free,Skilled Labor,No,No
+79,No Data,critical,Renovation,5520.0,0-200,7+ Years,Male,No,No Security,45.0,Free,Skilled Labor,No,No
+80,No Data,critical,Learning / Edu purposes,1537.0,200-500,2-5 Years,Female,No,Vehicle,29.0,House Owner,Skilled Labor,No,No
+81,No Data,critical,TV,1518.0,0-200,5-7 Years,Male,No,Property - Real Estate,41.0,House Owner,Services,No,No
+82,No Data,critical,Buying a New Car,1256.0,0-200,7+ Years,Male,No,Property - Real Estate,61.0,House Owner,Services,No,No
+83,No Data,critical,Buying a New Car,2028.0,0-200,2-5 Years,Female,No,Vehicle,39.0,House Owner,Skilled Labor,No,No
+84,No Data,critical,Buying a Used Car,8877.0,No Data,5-7 Years,Male,No,No Security,35.0,Free,Skilled Labor,No,No
+85,No Data,critical,Renovation,1006.0,No Data,5-7 Years,Female,No,Property - Real Estate,24.0,House Owner,Skilled Labor,No,No
+86,No Data,critical,TV,2581.0,1000+,7+ Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,No
+87,No Data,critical,TV,5968.0,0-200,5-7 Years,Male,Yes,Vehicle,37.0,House Owner,Skilled Labor,No,No
+88,No Data,critical,Home furniture,2790.0,0-200,5-7 Years,Female,Yes,Vehicle,22.0,House Owner,Skilled Labor,No,No
+89,No Data,critical,Learning / Edu purposes,1943.0,No Data,2-5 Years,Female,No,Vehicle,31.0,House Owner,Skilled Labor,No,No
+90,No Data,critical,Buying a New Car,2790.0,0-200,5-7 Years,Male,No,Savings Account,29.0,House Owner,Skilled Labor,No,No
+91,No Data,critical,Support for Business,4534.0,0-200,2-5 Years,Male,No,Property - Real Estate,75.0,House Owner,Professional / Management,No,No
+92,No Data,critical,Buying a New Car,1541.0,0-200,2-5 Years,Male,No,Savings Account,30.0,House Owner,Skilled Labor,No,No
+93,No Data,critical,Home furniture,4043.0,500-1000,2-5 Years,Male,No,Property - Real Estate,36.0,House Owner,Skilled Labor,No,Yes
+94,No Data,critical,TV,1867.0,0-200,5-7 Years,Married,Yes,Vehicle,34.0,House Owner,Skilled Labor,No,No
+95,No Data,critical,Buying a Used Car,2362.0,0-200,5-7 Years,Male,No,Vehicle,37.0,House Owner,Skilled Labor,No,No
+96,No Data,critical,All other,6332.0,0-200,Unemployed,Male,Yes,No Security,26.0,House Owner,Professional / Management,No,No
+97,No Data,critical,Support for Business,4141.0,200-500,2-5 Years,Male,No,Savings Account,26.0,House Owner,Services,No,No
+98,No Data,critical,Buying a New Car,2084.0,500-1000,2-5 Years,Married,No,Vehicle,23.0,House Owner,Skilled Labor,No,No
+99,No Data,critical,TV,4539.0,0-200,5-7 Years,Female,No,Vehicle,25.0,Renting,Professional / Management,No,No
+100,No Data,critical,Home furniture,5159.0,0-200,7+ Years,Male,No,Vehicle,31.0,House Owner,Skilled Labor,No,No
+101,No Data,critical,TV,5120.0,0-200,0-2 Years,Married,No,No Security,47.0,Free,Skilled Labor,No,No
+102,No Data,critical,Buying a New Car,944.0,0-200,Unemployed,Female,No,Savings Account,36.0,House Owner,Not Employed,No,No
+103,No Data,critical,TV,1809.0,0-200,2-5 Years,Male,No,Vehicle,24.0,House Owner,Skilled Labor,No,No
+104,No Data,critical,TV,630.0,500-1000,7+ Years,Male,No,Savings Account,34.0,House Owner,Professional / Management,No,No
+105,No Data,critical,Buying a Used Car,7615.0,No Data,7+ Years,Male,No,Vehicle,64.0,House Owner,Skilled Labor,No,No
+106,No Data,critical,TV,3090.0,No Data,7+ Years,Male,No,Vehicle,42.0,House Owner,Skilled Labor,No,No
+107,No Data,critical,Buying a New Car,254.0,1000+,2-5 Years,Female,No,Property - Real Estate,40.0,House Owner,Services,No,No
+108,No Data,critical,TV,1324.0,500-1000,2-5 Years,Married,No,Savings Account,48.0,House Owner,Services,No,Yes
+109,No Data,critical,Buying a New Car,3399.0,0-200,5-7 Years,Female,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,No
+110,No Data,critical,Buying a New Car,6774.0,0-200,5-7 Years,Male,No,No Security,46.0,House Owner,Professional / Management,No,No
+111,No Data,critical,TV,5790.0,0-200,5-7 Years,Female,No,Vehicle,27.0,House Owner,Skilled Labor,No,No
+112,No Data,critical,Buying a New Car,5051.0,No Data,7+ Years,Female,No,Vehicle,59.0,House Owner,Skilled Labor,No,No
+113,No Data,critical,Buying a New Car,12693.0,No Data,7+ Years,Male,No,No Security,30.0,Free,Professional / Management,No,No
+114,No Data,critical,Buying a New Car,2473.0,200-500,5-7 Years,Married,No,Savings Account,26.0,House Owner,Skilled Labor,No,No
+115,No Data,critical,TV,1672.0,0-200,7+ Years,Male,No,Property - Real Estate,65.0,House Owner,Services,No,No
+116,No Data,critical,Buying a Used Car,3282.0,0-200,7+ Years,Male,No,Vehicle,35.0,House Owner,Professional / Management,No,No
+117,No Data,critical,TV,2238.0,200-500,7+ Years,Male,No,Savings Account,52.0,House Owner,Skilled Labor,No,No
+118,No Data,critical,Buying a New Car,3545.0,0-200,5-7 Years,Male,No,Vehicle,35.0,House Owner,Skilled Labor,No,No
+119,No Data,critical,Buying a Used Car,5723.0,1000+,7+ Years,Male,No,Vehicle,37.0,House Owner,Professional / Management,No,No
+120,No Data,critical,Buying a New Car,1941.0,1000+,7+ Years,Male,No,Property - Real Estate,62.0,House Owner,Skilled Labor,No,No
+121,No Data,critical,Buying a Used Car,2771.0,No Data,7+ Years,Male,No,Vehicle,39.0,House Owner,Skilled Labor,No,No
+122,No Data,critical,Home furniture,1241.0,No Data,2-5 Years,Married,No,Savings Account,25.0,House Owner,Skilled Labor,No,No
+123,No Data,critical,Home furniture,1259.0,0-200,0-2 Years,Female,No,Savings Account,21.0,Renting,Services,No,No
+124,No Data,critical,Learning / Edu purposes,1606.0,0-200,7+ Years,Male,No,No Security,53.0,Free,Skilled Labor,No,No
+125,No Data,critical,TV,996.0,No Data,7+ Years,Male,No,Vehicle,33.0,House Owner,Skilled Labor,No,No
+126,No Data,critical,TV,940.0,No Data,7+ Years,Male,No,Property - Real Estate,63.0,House Owner,Skilled Labor,No,Yes
+127,No Data,critical,TV,1569.0,0-200,5-7 Years,Female,No,Vehicle,26.0,Renting,Skilled Labor,No,No
+128,No Data,critical,Home furniture,3790.0,0-200,0-2 Years,Divorced,No,Vehicle,35.0,House Owner,Professional / Management,No,No
+129,No Data,critical,TV,2614.0,0-200,7+ Years,Married,Yes,Property - Real Estate,45.0,House Owner,Skilled Labor,No,No
+130,No Data,critical,Buying a Used Car,4043.0,No Data,5-7 Years,Male,No,Savings Account,42.0,House Owner,Skilled Labor,No,No
+131,No Data,critical,TV,1491.0,0-200,2-5 Years,Male,No,No Security,35.0,Free,Skilled Labor,No,No
+132,No Data,critical,Home furniture,3360.0,0-200,2-5 Years,Male,No,No Security,30.0,Free,Skilled Labor,No,No
+133,No Data,critical,Buying a Used Car,5821.0,1000+,2-5 Years,Male,No,Property - Real Estate,28.0,House Owner,Skilled Labor,No,No
+134,No Data,critical,Home furniture,4541.0,1000+,0-2 Years,Male,No,Property - Real Estate,33.0,House Owner,Services,No,No
+135,No Data,critical,Home furniture,3339.0,0-200,7+ Years,Male,No,Savings Account,43.0,House Owner,Skilled Labor,No,No
+136,No Data,critical,TV,6749.0,No Data,5-7 Years,Male,No,Savings Account,37.0,House Owner,Skilled Labor,No,No
+137,No Data,critical,TV,1112.0,0-200,Unemployed,Female,No,Vehicle,67.0,House Owner,Not Employed,No,No
+138,No Data,critical,Buying a New Car,6631.0,0-200,7+ Years,Male,No,Vehicle,36.0,House Owner,Professional / Management,No,No
+139,No Data,critical,TV,1842.0,0-200,7+ Years,Male,No,Vehicle,44.0,House Owner,Skilled Labor,No,No
+140,No Data,critical,TV,1186.0,No Data,2-5 Years,Male,No,Savings Account,31.0,House Owner,Skilled Labor,No,No
+141,No Data,critical,Home furniture,1605.0,1000+,5-7 Years,Female,No,Savings Account,37.0,House Owner,Skilled Labor,Yes,No
+142,No Data,critical,Buying a New Car,3499.0,No Data,0-2 Years,Divorced,No,Property - Real Estate,44.0,House Owner,Skilled Labor,No,No
+143,No Data,critical,Buying a Used Car,10495.0,No Data,7+ Years,Male,No,No Security,41.0,Free,Skilled Labor,No,Yes
+144,No Data,critical,Home furniture,1830.0,0-200,2-5 Years,Female,No,No Security,28.0,House Owner,Skilled Labor,No,No
+145,No Data,critical,Buying a New Car,1238.0,0-200,2-5 Years,Male,No,Property - Real Estate,32.0,House Owner,Skilled Labor,No,No
+146,No Data,critical,TV,536.0,500-1000,7+ Years,Male,No,Savings Account,41.0,House Owner,Skilled Labor,No,No
+147,No Data,critical,Buying a Used Car,6849.0,No Data,2-5 Years,Male,No,Savings Account,45.0,House Owner,Professional / Management,No,No
+148,No Data,critical,Buying a New Car,1474.0,0-200,5-7 Years,Male,No,Property - Real Estate,44.0,House Owner,Services,No,No
+149,No Data,critical,TV,1744.0,0-200,7+ Years,Married,No,Property - Real Estate,28.0,Renting,Skilled Labor,No,No
+150,No Data,critical,TV,2844.0,0-200,2-5 Years,Female,No,Vehicle,35.0,House Owner,Skilled Labor,No,No
+151,No Data,critical,Home furniture,2034.0,0-200,5-7 Years,Male,No,Savings Account,31.0,House Owner,Services,No,No
+152,No Data,critical,Learning / Edu purposes,3570.0,No Data,0-2 Years,Male,No,Savings Account,36.0,House Owner,Services,No,No
+153,Type A,Average (known delays),TV,423.0,1000+,2-5 Years,Female,No,Property - Real Estate,40.0,Renting,Skilled Labor,No,No
+154,Type A,Good,Home furniture,1481.0,0-200,0-2 Years,Female,No,Savings Account,32.0,House Owner,Professional / Management,No,No
+155,Type A,Good,TV,2109.0,0-200,2-5 Years,Male,Yes,Property - Real Estate,35.0,House Owner,Skilled Labor,No,No
+156,Type A,Good,Home Devices,1238.0,0-200,2-5 Years,Male,No,Vehicle,35.0,House Owner,Skilled Labor,No,No
+157,Type A,Good,Buying a New Car,1978.0,0-200,7+ Years,Female,No,Vehicle,25.0,House Owner,Professional / Management,No,No
+158,Type A,critical,Home furniture,3637.0,No Data,7+ Years,Male,Yes,No Security,18.0,Renting,Skilled Labor,No,No
+159,Type A,Good,Learning / Edu purposes,411.0,0-200,0-2 Years,Female,No,Savings Account,25.0,Renting,Skilled Labor,No,Yes
+160,Type A,critical,Buying a New Car,783.0,0-200,7+ Years,Male,No,No Security,61.0,Free,Skilled Labor,No,No
+161,Type A,Good,TV,1887.0,0-200,2-5 Years,Female,No,Vehicle,43.0,Renting,Services,No,Yes
+162,Type A,Good,Buying a New Car,729.0,1000+,0-2 Years,Married,No,Property - Real Estate,25.0,House Owner,Not Employed,Yes,Yes
+163,Type A,Good,TV,5858.0,0-200,2-5 Years,Male,No,Vehicle,24.0,House Owner,Skilled Labor,No,Yes
+164,Type A,Average (known delays),Support for Business,1914.0,0-200,7+ Years,Male,No,Property - Real Estate,66.0,House Owner,Professional / Management,No,No
+165,Type A,Good,TV,3924.0,0-200,2-5 Years,Male,No,Property - Real Estate,22.0,House Owner,Skilled Labor,No,Yes
+166,Type A,Good,TV,4228.0,0-200,2-5 Years,Male,No,Vehicle,24.0,House Owner,Skilled Labor,No,No
+167,Type A,Good,Home furniture,1944.0,0-200,2-5 Years,Male,No,Property - Real Estate,26.0,House Owner,Skilled Labor,No,Yes
+168,Type A,Good,Home furniture,2258.0,0-200,2-5 Years,Female,No,Vehicle,47.0,House Owner,Services,No,Yes
+169,Type A,Average (known delays),TV,1452.0,No Data,5-7 Years,Male,No,Vehicle,47.0,House Owner,Services,No,Yes
+170,Type A,critical,Buying a Used Car,4799.0,0-200,7+ Years,Male,No,No Security,55.0,Free,Skilled Labor,No,No
+171,Type A,critical,Buying a New Car,1347.0,No Data,5-7 Years,Male,No,Property - Real Estate,37.0,House Owner,Services,No,No
+172,Type A,Good,Home furniture,3761.0,0-200,0-2 Years,Female,No,Vehicle,26.0,House Owner,Skilled Labor,No,Yes
+173,Type A,Good,Buying a New Car,1512.0,No Data,0-2 Years,Male,No,Property - Real Estate,28.0,House Owner,Services,Yes,Yes
+174,Type A,Good,TV,4485.0,0-200,7+ Years,Male,No,Vehicle,29.0,House Owner,Skilled Labor,No,Yes
+175,Type A,Good,Buying a New Car,3957.0,0-200,0-2 Years,Male,Yes,Savings Account,37.0,House Owner,Services,No,Yes
+176,Type A,Good,TV,3410.0,No Data,7+ Years,Male,No,Vehicle,39.0,House Owner,Professional / Management,No,Yes
+177,Type A,Average (known delays),Buying a New Car,2266.0,0-200,2-5 Years,Female,No,Vehicle,35.0,House Owner,Skilled Labor,No,No
+178,Type A,Good,Buying a New Car,1331.0,0-200,0-2 Years,Male,No,Property - Real Estate,25.0,House Owner,Skilled Labor,No,Yes
+179,Type A,critical,Buying a New Car,959.0,500-1000,5-7 Years,Married,No,Property - Real Estate,30.0,House Owner,Skilled Labor,No,No
+180,Type A,Average (known delays),Support for Business,613.0,0-200,0-2 Years,Female,No,Property - Real Estate,25.0,House Owner,Not Employed,No,No
+181,Type A,Good,Home furniture,1443.0,No Data,7+ Years,Female,No,Property - Real Estate,53.0,House Owner,Professional / Management,No,Yes
+182,Type A,Good,TV,5159.0,0-200,5-7 Years,Male,No,Vehicle,25.0,House Owner,Skilled Labor,No,Yes
+183,Type A,critical,Buying a New Car,1324.0,200-500,7+ Years,Divorced,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+184,Type A,Good,TV,1138.0,200-500,7+ Years,Divorced,No,Property - Real Estate,49.0,House Owner,Skilled Labor,No,Yes
+185,Type A,critical,Buying a Used Car,2367.0,500-1000,2-5 Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,Yes
+186,Type A,Good,Support for Business,2692.0,0-200,5-7 Years,Male,No,Savings Account,28.0,Renting,Skilled Labor,No,Yes
+187,Type A,critical,Learning / Edu purposes,2320.0,0-200,0-2 Years,Divorced,No,Vehicle,32.0,Renting,Skilled Labor,No,No
+188,Type A,Good,Home furniture,3064.0,0-200,0-2 Years,Female,No,Savings Account,46.0,House Owner,Services,No,Yes
+189,Type A,Good,Home furniture,2872.0,0-200,2-5 Years,Male,No,Property - Real Estate,32.0,House Owner,Services,No,No
+190,Type A,Average (known delays),TV,700.0,0-200,0-2 Years,Female,No,Savings Account,28.0,House Owner,Skilled Labor,No,No
+191,Type A,Good,Home furniture,1276.0,0-200,0-2 Years,Female,No,Savings Account,24.0,House Owner,Skilled Labor,No,Yes
+192,Type A,Good,Buying a New Car,1250.0,200-500,7+ Years,Female,No,No Security,46.0,Free,Services,No,No
+193,Type A,Good,Home furniture,2122.0,0-200,2-5 Years,Male,No,Property - Real Estate,40.0,House Owner,Skilled Labor,No,Yes
+194,Type A,Good,Buying a New Car,966.0,0-200,5-7 Years,Male,No,No Security,36.0,Free,Skilled Labor,No,No
+195,Type A,Good,TV,1316.0,0-200,2-5 Years,Married,No,Property - Real Estate,23.0,Renting,Skilled Labor,No,Yes
+196,Type A,critical,Learning / Edu purposes,1057.0,0-200,2-5 Years,Female,No,Savings Account,52.0,House Owner,Services,No,No
+197,Type A,critical,TV,3033.0,0-200,7+ Years,Male,No,Savings Account,46.0,House Owner,Skilled Labor,No,No
+198,Type A,critical,TV,1349.0,No Data,5-7 Years,Male,No,Savings Account,29.0,House Owner,Skilled Labor,No,Yes
+199,Type A,Good,Learning / Edu purposes,1914.0,0-200,7+ Years,Male,No,Vehicle,42.0,Renting,Professional / Management,No,Yes
+200,Type A,Good,TV,1394.0,200-500,7+ Years,Female,No,No Security,47.0,Free,Skilled Labor,No,Yes
+201,Type A,critical,TV,3161.0,No Data,2-5 Years,Male,No,Vehicle,29.0,House Owner,Skilled Labor,No,Yes
+202,Type A,Good,TV,1353.0,0-200,0-2 Years,Male,No,Vehicle,34.0,House Owner,Professional / Management,No,No
+203,Type A,critical,Support for Business,1290.0,1000+,2-5 Years,Divorced,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,Yes
+204,Type A,critical,Buying a New Car,1305.0,0-200,2-5 Years,Male,No,Property - Real Estate,74.0,House Owner,Not Employed,Yes,No
+205,Type A,critical,TV,1272.0,No Data,2-5 Years,Male,No,No Security,40.0,Free,Skilled Labor,No,No
+206,Type A,critical,Buying a New Car,1484.0,500-1000,Unemployed,Male,No,No Security,68.0,Free,Not Employed,No,Yes
+207,Type A,Good,Home furniture,2903.0,0-200,7+ Years,Divorced,No,No Security,53.0,Free,Skilled Labor,No,Yes
+208,Type A,Good,TV,3018.0,0-200,2-5 Years,Married,No,Vehicle,26.0,House Owner,Skilled Labor,No,Yes
+209,Type A,Good,TV,2341.0,0-200,0-2 Years,Female,No,Property - Real Estate,24.0,House Owner,Services,No,No
+210,Type A,critical,Buying a New Car,1356.0,0-200,7+ Years,Male,No,Property - Real Estate,47.0,House Owner,Skilled Labor,Yes,No
+211,Type A,Good,TV,746.0,0-200,2-5 Years,Female,No,Property - Real Estate,26.0,House Owner,Services,No,No
+212,Type A,critical,TV,3674.0,No Data,7+ Years,Male,No,Savings Account,51.0,House Owner,Services,No,Yes
+213,Type A,Good,TV,1260.0,500-1000,2-5 Years,Female,No,Vehicle,56.0,House Owner,Services,No,Yes
+214,Type A,Good,Buying a New Car,2939.0,200-500,2-5 Years,Female,No,Vehicle,28.0,House Owner,Professional / Management,No,Yes
+215,Type A,Good,Support for Business,6298.0,0-200,0-2 Years,Divorced,No,Savings Account,34.0,House Owner,Skilled Labor,No,Yes
+216,Type A,Good,Learning / Edu purposes,9067.0,No Data,2-5 Years,Male,No,No Security,37.0,Free,Services,No,Yes
+217,Type A,Good,Home furniture,2838.0,500-1000,7+ Years,Male,No,Savings Account,55.0,House Owner,Skilled Labor,No,Yes
+218,Type A,Good,TV,3078.0,1000+,5-7 Years,Divorced,No,Property - Real Estate,63.0,House Owner,Services,No,Yes
+219,Type A,Good,TV,3439.0,500-1000,7+ Years,Male,No,Vehicle,29.0,House Owner,Skilled Labor,No,Yes
+220,Type A,Good,TV,438.0,0-200,7+ Years,Married,No,Vehicle,38.0,House Owner,Services,No,Yes
+221,Type A,Good,TV,2340.0,500-1000,7+ Years,Male,No,Vehicle,28.0,House Owner,Professional / Management,No,Yes
+222,Type A,Good,TV,2307.0,500-1000,7+ Years,Male,No,Vehicle,39.0,House Owner,Skilled Labor,No,Yes
+223,Type A,Good,TV,2093.0,200-500,2-5 Years,Female,Yes,Property - Real Estate,27.0,House Owner,Skilled Labor,No,Yes
+224,Type A,Good,TV,1281.0,0-200,2-5 Years,Male,No,Vehicle,23.0,House Owner,Skilled Labor,No,Yes
+225,Type A,Good,Buying a Used Car,3382.0,No Data,2-5 Years,Male,No,Savings Account,32.0,House Owner,Skilled Labor,No,Yes
+226,Type A,Good,TV,3192.0,0-200,0-2 Years,Female,No,Savings Account,27.0,House Owner,Skilled Labor,No,Yes
+227,Type A,Good,Renovation,5198.0,No Data,7+ Years,Male,No,Savings Account,49.0,House Owner,Skilled Labor,No,Yes
+228,Type A,Good,TV,2181.0,0-200,0-2 Years,Female,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+229,Type A,Good,Learning / Edu purposes,1838.0,0-200,2-5 Years,Male,No,No Security,35.0,Free,Skilled Labor,No,No
+230,Type A,Good,TV,2413.0,No Data,2-5 Years,Female,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+231,Type A,Good,Buying a Used Car,8136.0,0-200,2-5 Years,Female,No,Savings Account,32.0,House Owner,Skilled Labor,No,Yes
+232,Type A,Good,Buying a Used Car,9447.0,No Data,2-5 Years,Male,No,Savings Account,39.0,House Owner,Services,No,Yes
+233,Type A,Good,TV,5959.0,No Data,0-2 Years,Female,No,Vehicle,43.0,House Owner,Skilled Labor,No,No
+234,Type A,Good,TV,1223.0,500-1000,7+ Years,Male,No,Savings Account,49.0,House Owner,Skilled Labor,No,Yes
+235,Type A,Good,Home furniture,2724.0,0-200,0-2 Years,Male,No,Savings Account,26.0,House Owner,Services,No,Yes
+236,Type A,Good,Home furniture,2003.0,0-200,2-5 Years,Male,No,No Security,49.0,Free,Skilled Labor,No,Yes
+237,Type A,Good,TV,10146.0,200-500,5-7 Years,Female,No,Property - Real Estate,22.0,House Owner,Skilled Labor,No,Yes
+238,Type A,Good,TV,1348.0,200-500,7+ Years,Male,No,No Security,44.0,Free,Skilled Labor,No,Yes
+239,Type A,Good,TV,1929.0,0-200,2-5 Years,Male,No,Savings Account,37.0,House Owner,Skilled Labor,Yes,Yes
+240,Type A,Good,Home Devices,1267.0,500-1000,5-7 Years,Male,No,Savings Account,34.0,House Owner,Skilled Labor,No,Yes
+241,Type A,Good,Buying a New Car,929.0,500-1000,7+ Years,Male,No,Savings Account,35.0,House Owner,Skilled Labor,No,Yes
+242,Type A,Good,Home furniture,2991.0,500-1000,2-5 Years,Male,No,Vehicle,33.0,House Owner,Skilled Labor,No,Yes
+243,Type A,Good,Home furniture,783.0,0-200,2-5 Years,Female,No,Property - Real Estate,27.0,House Owner,Skilled Labor,No,Yes
+244,Type A,Good,Support for Business,4606.0,1000+,2-5 Years,Male,No,Savings Account,52.0,House Owner,Professional / Management,No,No
+245,Type A,Good,Buying a Used Car,1416.0,1000+,5-7 Years,Male,No,Savings Account,54.0,House Owner,Skilled Labor,Yes,Yes
+246,Type A,Good,TV,3850.0,No Data,7+ Years,Female,No,Property - Real Estate,45.0,House Owner,Services,No,Yes
+247,Type A,Good,Buying a New Car,1374.0,0-200,2-5 Years,Female,No,Vehicle,65.0,House Owner,Skilled Labor,No,Yes
+248,Type A,Good,TV,716.0,0-200,2-5 Years,Male,No,Property - Real Estate,29.0,House Owner,Skilled Labor,No,Yes
+249,Type A,Good,Buying a Used Car,4667.0,0-200,2-5 Years,Male,No,Vehicle,28.0,House Owner,Skilled Labor,No,Yes
+250,Type A,Good,Renovation,2618.0,0-200,2-5 Years,Male,No,Vehicle,29.0,House Owner,Skilled Labor,No,Yes
+251,Type A,Good,TV,1487.0,0-200,5-7 Years,Male,No,Vehicle,21.0,House Owner,Skilled Labor,No,No
+252,Type A,Good,Buying a New Car,2511.0,500-1000,7+ Years,Male,No,No Security,49.0,Free,Services,No,Yes
+253,Type A,Good,TV,2158.0,200-500,5-7 Years,Male,No,No Security,34.0,House Owner,Skilled Labor,No,Yes
+254,Type A,Good,TV,1605.0,0-200,5-7 Years,Male,No,Savings Account,49.0,House Owner,Skilled Labor,No,Yes
+255,Type A,Good,Support for Business,1261.0,0-200,5-7 Years,Male,No,Property - Real Estate,24.0,House Owner,Skilled Labor,No,Yes
+256,Type A,Good,Buying a Used Car,3819.0,200-500,0-2 Years,Female,No,Vehicle,25.0,House Owner,Skilled Labor,No,Yes
+257,Type A,Good,TV,1551.0,0-200,0-2 Years,Female,No,Vehicle,37.0,House Owner,Skilled Labor,No,Yes
+258,Type A,Good,TV,1019.0,No Data,7+ Years,Male,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+259,Type A,Good,Buying a New Car,2680.0,No Data,5-7 Years,Male,No,Savings Account,32.0,House Owner,Skilled Labor,Yes,Yes
+260,Type A,Good,TV,2700.0,0-200,2-5 Years,Male,No,Property - Real Estate,31.0,House Owner,Skilled Labor,No,Yes
+261,Type A,Good,Home furniture,4628.0,0-200,0-2 Years,Female,No,Savings Account,32.0,House Owner,Skilled Labor,No,No
+262,Type A,Good,Home furniture,1587.0,0-200,2-5 Years,Male,No,Property - Real Estate,51.0,House Owner,Skilled Labor,No,Yes
+263,Type A,Good,Support for Business,1088.0,0-200,2-5 Years,Married,No,Property - Real Estate,26.0,House Owner,Skilled Labor,Yes,Yes
+264,Type A,Good,Buying a New Car,1301.0,No Data,7+ Years,Male,Yes,Savings Account,45.0,House Owner,Services,Yes,Yes
+265,Type A,Good,Home furniture,2518.0,0-200,2-5 Years,Male,No,Property - Real Estate,44.0,House Owner,Skilled Labor,No,Yes
+266,Type A,Good,Buying a New Car,673.0,0-200,Unemployed,Female,No,Property - Real Estate,54.0,House Owner,Not Employed,No,Yes
+267,Type A,Good,Home furniture,1553.0,1000+,2-5 Years,Divorced,No,Property - Real Estate,31.0,House Owner,Skilled Labor,No,Yes
+268,Type A,Good,Home furniture,5525.0,200-500,2-5 Years,Male,No,Vehicle,24.0,House Owner,Skilled Labor,No,Yes
+269,Type A,Good,Buying a New Car,1533.0,1000+,5-7 Years,Female,No,Vehicle,34.0,House Owner,Skilled Labor,No,Yes
+270,Type A,Good,Learning / Edu purposes,730.0,500-1000,7+ Years,Male,No,No Security,44.0,Free,Skilled Labor,No,Yes
+271,Type A,Good,TV,792.0,0-200,2-5 Years,Married,No,Property - Real Estate,30.0,House Owner,Skilled Labor,No,Yes
+272,Type A,Good,Support for Business,1550.0,0-200,5-7 Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,Yes
+273,Type A,Good,Buying a New Car,3085.0,No Data,2-5 Years,Male,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,Yes
+274,Type A,Good,Support for Business,1464.0,0-200,5-7 Years,Female,No,Vehicle,29.0,House Owner,Skilled Labor,No,Yes
+275,Type A,Good,Buying a New Car,1831.0,0-200,2-5 Years,Married,No,Savings Account,31.0,House Owner,Professional / Management,No,Yes
+276,Type A,Good,TV,1475.0,0-200,0-2 Years,Married,No,Property - Real Estate,38.0,House Owner,Skilled Labor,No,Yes
+277,Type A,Good,TV,3251.0,500-1000,7+ Years,Divorced,No,Vehicle,24.0,House Owner,Professional / Management,No,Yes
+278,Type A,Good,Buying a New Car,2800.0,500-1000,5-7 Years,Female,No,Vehicle,30.0,House Owner,Professional / Management,No,Yes
+279,Type A,Good,Home furniture,1328.0,0-200,7+ Years,Male,No,Vehicle,21.0,House Owner,Skilled Labor,No,Yes
+280,Type A,Good,Support for Business,3465.0,0-200,5-7 Years,Male,No,Property - Real Estate,72.0,House Owner,Services,No,Yes
+281,Type A,Good,Buying a New Car,1896.0,0-200,7+ Years,Male,No,Vehicle,38.0,House Owner,Professional / Management,No,Yes
+282,Type A,Good,Learning / Edu purposes,720.0,0-200,7+ Years,Male,No,Vehicle,40.0,House Owner,Services,No,No
+283,Type A,Good,TV,534.0,0-200,2-5 Years,Female,No,Property - Real Estate,27.0,House Owner,Skilled Labor,No,Yes
+284,Type A,Good,Home furniture,2777.0,0-200,7+ Years,Male,No,Savings Account,34.0,House Owner,Skilled Labor,No,Yes
+285,Type A,Good,Buying a Used Car,2684.0,0-200,7+ Years,Male,No,Vehicle,34.0,House Owner,Professional / Management,No,Yes
+286,Type A,Good,Buying a Used Car,2689.0,0-200,0-2 Years,Female,No,No Security,30.0,House Owner,Professional / Management,No,Yes
+287,Type A,Good,TV,4614.0,0-200,0-2 Years,Male,No,Vehicle,32.0,House Owner,Skilled Labor,No,Yes
+288,Type A,Good,Support for Business,1965.0,0-200,5-7 Years,Male,No,Vehicle,32.0,House Owner,Skilled Labor,No,Yes
+289,Type A,Good,Advance Edu/training,1242.0,No Data,Unemployed,Male,No,Savings Account,37.0,House Owner,Professional / Management,No,Yes
+290,Type A,Good,Buying a Used Car,2579.0,500-1000,2-5 Years,Male,No,Vehicle,23.0,House Owner,Skilled Labor,No,Yes
+291,Type A,Good,TV,3079.0,0-200,2-5 Years,Male,No,Vehicle,50.0,House Owner,Skilled Labor,No,Yes
+292,Type A,Good,Buying a New Car,3761.0,0-200,7+ Years,Female,Yes,No Security,60.0,Free,Skilled Labor,No,Yes
+293,Type A,Good,Buying a New Car,1319.0,No Data,2-5 Years,Male,Yes,Savings Account,29.0,House Owner,Services,No,No
+294,Type A,Good,TV,1425.0,0-200,2-5 Years,Married,No,Savings Account,29.0,House Owner,Skilled Labor,No,Yes
+295,Type A,Good,Buying a Used Car,8604.0,200-500,7+ Years,Male,No,Vehicle,46.0,House Owner,Professional / Management,No,Yes
+296,Type A,Good,Buying a Used Car,4699.0,0-200,2-5 Years,Male,No,No Security,33.0,Free,Professional / Management,No,Yes
+297,Type A,Good,Buying a New Car,2265.0,No Data,0-2 Years,Male,No,Savings Account,54.0,House Owner,Skilled Labor,No,Yes
+298,Type A,Good,Buying a Used Car,3502.0,200-500,5-7 Years,Female,No,Vehicle,24.0,House Owner,Skilled Labor,No,Yes
+299,Type A,Good,TV,1317.0,200-500,5-7 Years,Married,No,Savings Account,26.0,House Owner,Skilled Labor,No,Yes
+300,Type A,Good,TV,3121.0,No Data,0-2 Years,Male,No,Vehicle,26.0,House Owner,Skilled Labor,No,Yes
+301,Type A,Good,TV,1554.0,0-200,5-7 Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,Yes
+302,Type A,Good,Buying a New Car,5007.0,No Data,2-5 Years,Female,No,Savings Account,27.0,House Owner,Skilled Labor,No,No
+303,Type A,Good,Advance Edu/training,944.0,0-200,0-2 Years,Married,No,Vehicle,25.0,House Owner,Services,No,Yes
+304,Type A,Good,Buying a New Car,2146.0,No Data,7+ Years,Female,No,No Security,50.0,Free,Professional / Management,No,Yes
+305,Type A,Good,Support for Business,1592.0,1000+,7+ Years,Female,No,Property - Real Estate,34.0,House Owner,Services,No,Yes
+306,Type A,Good,Home furniture,3369.0,0-200,2-5 Years,Female,No,Vehicle,30.0,House Owner,Professional / Management,No,No
+307,Type A,Good,TV,2055.0,0-200,0-2 Years,Male,No,Property - Real Estate,33.0,House Owner,Skilled Labor,No,Yes
+308,Type A,Good,Buying a Used Car,1310.0,No Data,7+ Years,Male,No,No Security,45.0,Free,Skilled Labor,No,Yes
+309,Type A,Good,Buying a New Car,651.0,0-200,2-5 Years,Divorced,No,Property - Real Estate,47.0,House Owner,Services,No,Yes
+310,Type A,Good,Support for Business,3915.0,No Data,2-5 Years,Divorced,No,Property - Real Estate,38.0,House Owner,Skilled Labor,No,No
+311,Type A,Good,TV,1992.0,No Data,7+ Years,Male,No,Vehicle,37.0,House Owner,Skilled Labor,No,Yes
+312,Type A,Good,Learning / Edu purposes,3838.0,No Data,7+ Years,Male,No,Property - Real Estate,65.0,House Owner,Services,No,Yes
+313,Type A,Good,Learning / Edu purposes,1396.0,0-200,7+ Years,Male,No,Savings Account,45.0,House Owner,Skilled Labor,No,Yes
+314,Type A,Good,TV,1379.0,500-1000,5-7 Years,Female,No,Vehicle,29.0,House Owner,Skilled Labor,No,Yes
+315,Type A,Good,TV,1513.0,0-200,0-2 Years,Female,No,Vehicle,36.0,House Owner,Skilled Labor,No,Yes
+316,Type A,Good,Learning / Edu purposes,4635.0,200-500,2-5 Years,Male,No,Savings Account,42.0,House Owner,Professional / Management,No,No
+317,Type A,Good,Buying a New Car,1387.0,500-1000,2-5 Years,Female,No,Savings Account,26.0,House Owner,Skilled Labor,No,No
+318,Type A,Good,TV,10228.0,No Data,5-7 Years,Male,No,Vehicle,38.0,House Owner,Skilled Labor,No,Yes
+319,Type A,Good,Home furniture,2244.0,0-200,7+ Years,Male,No,Property - Real Estate,48.0,House Owner,Skilled Labor,No,Yes
+320,Type A,Good,Support for Business,5746.0,200-500,5-7 Years,Male,No,Vehicle,30.0,House Owner,Skilled Labor,No,Yes
+321,Type A,Good,Buying a New Car,10375.0,0-200,7+ Years,Male,No,Savings Account,44.0,House Owner,Professional / Management,No,Yes
+322,Type A,Good,TV,1459.0,0-200,0-2 Years,Female,No,Property - Real Estate,26.0,House Owner,Skilled Labor,No,Yes
+323,Type A,Good,Learning / Edu purposes,1551.0,0-200,0-2 Years,Female,No,No Security,57.0,House Owner,Skilled Labor,No,Yes
+324,Type A,Good,TV,2284.0,No Data,2-5 Years,Male,No,No Security,39.0,Free,Skilled Labor,No,Yes
+325,Type A,Good,Buying a New Car,6546.0,No Data,2-5 Years,Male,No,No Security,33.0,Free,Skilled Labor,No,Yes
+326,Type A,Good,TV,2757.0,200-500,7+ Years,Male,Yes,Vehicle,37.0,House Owner,Skilled Labor,No,Yes
+327,Type A,Good,TV,2289.0,0-200,5-7 Years,Male,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+328,Type A,Good,Buying a New Car,5336.0,500-1000,7+ Years,Female,No,No Security,36.0,Free,Skilled Labor,No,Yes
+329,Type A,Good,Buying a Used Car,2487.0,No Data,7+ Years,Male,No,Property - Real Estate,45.0,House Owner,Professional / Management,No,Yes
+330,Type A,Good,TV,1516.0,0-200,2-5 Years,Male,No,No Security,33.0,Free,Professional / Management,No,Yes
+331,Type A,Good,TV,3170.0,No Data,7+ Years,Male,No,Savings Account,39.0,House Owner,Skilled Labor,No,Yes
+332,Type A,Good,Buying a Used Car,5249.0,No Data,2-5 Years,Male,No,Vehicle,25.0,House Owner,Skilled Labor,No,Yes
+333,Type A,Good,Buying a Used Car,3044.0,0-200,5-7 Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,Yes
+334,Type A,Good,Buying a New Car,1397.0,0-200,2-5 Years,Male,Yes,Property - Real Estate,31.0,House Owner,Skilled Labor,No,Yes
+335,Type A,Good,TV,2676.0,500-1000,7+ Years,Male,No,Vehicle,41.0,House Owner,Skilled Labor,No,Yes
+336,Type A,Good,Buying a Used Car,6326.0,No Data,7+ Years,Male,No,Vehicle,42.0,House Owner,Professional / Management,No,Yes
+337,Type A,Good,Home Devices,1341.0,500-1000,2-5 Years,Divorced,No,Property - Real Estate,64.0,House Owner,Skilled Labor,No,Yes
+338,Type A,Good,Buying a New Car,1110.0,0-200,2-5 Years,Married,No,Property - Real Estate,29.0,House Owner,Skilled Labor,No,Yes
+339,Type A,Good,Support for Business,4184.0,0-200,2-5 Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,No
+340,Type A,Good,TV,891.0,No Data,2-5 Years,Female,No,Vehicle,21.0,House Owner,Skilled Labor,No,Yes
+341,Type A,Good,Renovation,1944.0,0-200,0-2 Years,Female,No,Property - Real Estate,25.0,House Owner,Skilled Labor,No,No
+342,Type A,Good,Home furniture,3434.0,0-200,7+ Years,Male,No,Savings Account,46.0,House Owner,Skilled Labor,No,Yes
+343,Type A,Good,Buying a New Car,1251.0,0-200,0-2 Years,Married,No,Property - Real Estate,28.0,House Owner,Skilled Labor,No,Yes
+344,Type A,Good,Buying a New Car,1493.0,200-500,0-2 Years,Married,No,Property - Real Estate,31.0,House Owner,Skilled Labor,No,Yes
+345,Type A,Good,Advance Edu/training,905.0,No Data,5-7 Years,Female,No,Savings Account,39.0,House Owner,Skilled Labor,No,Yes
+346,Type A,Good,Support for Business,7422.0,No Data,7+ Years,Male,No,Savings Account,37.0,House Owner,Skilled Labor,No,Yes
+347,Type A,Good,Home Devices,893.0,No Data,0-2 Years,Female,No,Property - Real Estate,26.0,House Owner,Skilled Labor,No,Yes
+348,Type A,Good,TV,3597.0,0-200,7+ Years,Male,No,Vehicle,28.0,House Owner,Skilled Labor,No,Yes
+349,Type A,Good,Buying a Used Car,7818.0,0-200,5-7 Years,Male,No,Vehicle,39.0,House Owner,Professional / Management,No,Yes
+350,Type A,Good,Buying a Used Car,9292.0,No Data,2-5 Years,Divorced,No,No Security,50.0,Free,Skilled Labor,No,Yes
+351,Type A,Good,TV,1286.0,0-200,7+ Years,Male,No,Property - Real Estate,36.0,House Owner,Professional / Management,No,Yes
+352,Type A,Good,Support for Business,2143.0,1000+,7+ Years,Divorced,No,Property - Real Estate,29.0,House Owner,Skilled Labor,No,Yes
+353,Type A,Good,Buying a Used Car,2855.0,200-500,2-5 Years,Male,Yes,Property - Real Estate,33.0,House Owner,Skilled Labor,No,Yes
+354,Type A,Good,TV,1868.0,No Data,7+ Years,Male,No,Vehicle,58.0,House Owner,Skilled Labor,No,Yes
+355,Type A,Good,Buying a New Car,3537.0,No Data,0-2 Years,Male,No,Savings Account,45.0,House Owner,Professional / Management,No,Yes
+356,Type A,Good,Buying a New Car,1549.0,0-200,2-5 Years,Male,No,Property - Real Estate,29.0,House Owner,Services,Yes,Yes
+357,Type A,Good,Home furniture,941.0,No Data,5-7 Years,Male,No,Vehicle,31.0,House Owner,Skilled Labor,No,Yes
+358,Type A,Good,Buying a New Car,2878.0,No Data,Unemployed,Male,No,No Security,38.0,House Owner,Professional / Management,No,Yes
+359,Type A,Good,Home furniture,1540.0,0-200,0-2 Years,Married,Yes,Savings Account,41.0,House Owner,Services,No,No
+360,Type A,Good,TV,3636.0,200-500,7+ Years,Male,No,Vehicle,32.0,House Owner,Skilled Labor,No,No
+361,Type A,Good,Home furniture,10989.0,0-200,Unemployed,Female,No,Vehicle,28.0,House Owner,Professional / Management,No,No
+362,Type A,Good,Buying a New Car,3575.0,No Data,2-5 Years,Male,No,No Security,29.0,House Owner,Skilled Labor,No,Yes
+363,Type A,Good,TV,2409.0,500-1000,7+ Years,Male,No,Vehicle,36.0,House Owner,Skilled Labor,No,No
+364,Type A,Good,Buying a New Car,7407.0,0-200,2-5 Years,Male,No,Savings Account,42.0,House Owner,Services,No,Yes
+365,Type A,Good,TV,1423.0,200-500,Unemployed,Female,No,Property - Real Estate,64.0,House Owner,Skilled Labor,No,Yes
+366,Type A,Good,Buying a New Car,2410.0,No Data,7+ Years,Male,No,Vehicle,51.0,House Owner,Skilled Labor,No,Yes
+367,Type A,Good,Home furniture,1746.0,0-200,5-7 Years,Female,No,Property - Real Estate,29.0,House Owner,Services,No,Yes
+368,Type A,Good,TV,820.0,0-200,7+ Years,Male,No,Vehicle,40.0,House Owner,Skilled Labor,No,Yes
+369,Type B,Good,TV,5964.0,0-200,2-5 Years,Female,No,Property - Real Estate,24.0,House Owner,Skilled Labor,Yes,No
+370,Type B,Good,Buying a Used Car,6949.0,0-200,2-5 Years,Male,No,Vehicle,36.0,Renting,Professional / Management,No,Yes
+371,Type B,critical,Buying a New Car,5252.0,0-200,Unemployed,Married,No,Vehicle,30.0,House Owner,Professional / Management,No,No
+372,Type B,Good,Buying a New Car,1303.0,0-200,0-2 Years,Female,No,Vehicle,26.0,Renting,Skilled Labor,No,No
+373,Type B,Good,TV,1586.0,0-200,2-5 Years,Female,No,Vehicle,22.0,House Owner,Skilled Labor,No,Yes
+374,Type B,Good,Buying a Used Car,12588.0,0-200,7+ Years,Female,No,No Security,44.0,Free,Professional / Management,No,No
+375,Type B,critical,Buying a Used Car,1818.0,200-500,0-2 Years,Male,No,Savings Account,43.0,House Owner,Skilled Labor,No,Yes
+376,Type B,Good,TV,2428.0,0-200,2-5 Years,Male,Yes,Property - Real Estate,34.0,House Owner,Skilled Labor,No,Yes
+377,Type B,Good,Support for Business,1926.0,1000+,0-2 Years,Married,No,Property - Real Estate,38.0,House Owner,Skilled Labor,No,Yes
+378,Type B,Good,Buying a New Car,5868.0,200-500,2-5 Years,Male,No,Vehicle,30.0,House Owner,Skilled Labor,No,Yes
+379,Type B,critical,TV,4766.0,0-200,0-2 Years,Male,No,Savings Account,25.0,House Owner,Services,No,No
+380,Type B,Good,TV,475.0,0-200,2-5 Years,Male,No,Property - Real Estate,26.0,House Owner,Skilled Labor,No,Yes
+381,Type B,Good,TV,1167.0,500-1000,2-5 Years,Divorced,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+382,Type B,Average (known delays),Renovation,6210.0,0-200,2-5 Years,Male,No,Property - Real Estate,42.0,House Owner,Services,No,No
+383,Type B,Average (known delays),Home furniture,2340.0,No Data,0-2 Years,Male,No,Savings Account,29.0,House Owner,Services,No,Yes
+384,Type B,Average (known delays),Buying a Used Car,5980.0,0-200,7+ Years,Male,No,Vehicle,28.0,House Owner,Professional / Management,No,No
+385,Type B,Average (known delays),Buying a New Car,2227.0,0-200,7+ Years,Male,No,No Security,55.0,Free,Skilled Labor,No,No
+386,Type B,Good,TV,6487.0,No Data,Unemployed,Male,No,No Security,52.0,House Owner,Professional / Management,No,No
+387,Type B,Good,Support for Business,1408.0,0-200,2-5 Years,Married,No,Property - Real Estate,27.0,House Owner,Skilled Labor,No,Yes
+388,Type B,critical,TV,1545.0,No Data,7+ Years,Male,Yes,Property - Real Estate,49.0,House Owner,Skilled Labor,No,Yes
+389,Type B,Good,Support for Business,1963.0,0-200,7+ Years,Male,No,No Security,59.0,Free,Professional / Management,No,No
+390,Type B,Good,Support for Business,14423.0,0-200,2-5 Years,Male,No,Vehicle,27.0,House Owner,Skilled Labor,No,No
+391,Type B,Good,Buying a New Car,1024.0,1000+,2-5 Years,Married,No,Property - Real Estate,24.0,House Owner,Skilled Labor,No,Yes
+392,Type B,critical,Support for Business,5960.0,0-200,5-7 Years,Female,No,Property - Real Estate,43.0,House Owner,Services,No,No
+393,Type B,Average (known delays),TV,4781.0,0-200,5-7 Years,Male,No,Savings Account,52.0,House Owner,Skilled Labor,No,No
+394,Type B,Good,Home furniture,3851.0,0-200,0-2 Years,Married,No,Savings Account,20.0,House Owner,Skilled Labor,No,Yes
+395,Type B,critical,Home furniture,1311.0,0-200,0-2 Years,Female,No,Savings Account,29.0,House Owner,Skilled Labor,No,No
+396,Type B,Good,Learning / Edu purposes,12623.0,200-500,2-5 Years,Male,No,No Security,46.0,Free,Skilled Labor,No,No
+397,Type B,Good,Buying a New Car,1326.0,1000+,7+ Years,Male,No,Property - Real Estate,56.0,House Owner,Skilled Labor,No,Yes
+398,Type B,Good,Support for Business,15950.0,0-200,0-2 Years,Male,No,No Security,59.0,Renting,Skilled Labor,No,No
+399,Type B,Good,Support for Business,2633.0,200-500,2-5 Years,Male,No,Vehicle,36.0,House Owner,Skilled Labor,No,Yes
+400,Type B,critical,TV,2351.0,0-200,7+ Years,Male,No,Property - Real Estate,37.0,House Owner,Skilled Labor,No,No
+401,Type B,Average (known delays),Buying a Used Car,7077.0,No Data,5-7 Years,Male,No,Savings Account,34.0,Renting,Professional / Management,No,Yes
+402,Type B,Good,TV,2342.0,0-200,5-7 Years,Male,No,Vehicle,24.0,Renting,Skilled Labor,No,Yes
+403,Type B,critical,Home furniture,1921.0,0-200,5-7 Years,Male,No,Vehicle,34.0,Renting,Skilled Labor,No,No
+404,Type B,critical,All other,11956.0,0-200,2-5 Years,Male,Yes,Vehicle,40.0,House Owner,Professional / Management,No,No
+405,Type B,Good,Buying a New Car,6098.0,0-200,5-7 Years,Male,No,Vehicle,32.0,House Owner,Skilled Labor,No,Yes
+406,Type B,Good,Support for Business,1413.0,500-1000,7+ Years,Married,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,Yes
+407,Type B,Average (known delays),Support for Business,1460.0,200-500,7+ Years,Divorced,No,Vehicle,33.0,House Owner,Skilled Labor,No,Yes
+408,Type B,Good,Buying a New Car,6274.0,0-200,5-7 Years,Male,No,Property - Real Estate,29.0,Renting,Services,No,Yes
+409,Type B,critical,Buying a New Car,2370.0,500-1000,5-7 Years,Divorced,No,Vehicle,35.0,House Owner,Professional / Management,No,Yes
+410,Type B,Good,Home furniture,1928.0,No Data,0-2 Years,Female,No,Property - Real Estate,25.0,Renting,Skilled Labor,No,No
+411,Type B,Good,Renovation,648.0,0-200,2-5 Years,Male,No,Vehicle,29.0,House Owner,Skilled Labor,No,No
+412,Type B,critical,Buying a Used Car,1862.0,0-200,Unemployed,Male,No,Vehicle,36.0,House Owner,Professional / Management,No,No
+413,Type B,Good,Buying a New Car,8504.0,No Data,5-7 Years,Female,No,Vehicle,26.0,House Owner,Skilled Labor,No,Yes
+414,Type B,Good,TV,782.0,500-1000,2-5 Years,Male,No,Property - Real Estate,68.0,House Owner,Services,No,No
+415,Type B,critical,TV,2731.0,No Data,5-7 Years,Male,Yes,Property - Real Estate,34.0,House Owner,Skilled Labor,No,Yes
+416,Type B,Good,TV,4801.0,0-200,0-2 Years,Female,No,No Security,31.0,House Owner,Professional / Management,No,Yes
+417,Type B,Average (known delays),Support for Business,3581.0,200-500,5-7 Years,Male,No,Vehicle,32.0,House Owner,Skilled Labor,No,Yes
+418,Type B,critical,Buying a Used Car,7774.0,1000+,7+ Years,Female,No,No Security,30.0,Renting,Skilled Labor,No,Yes
+419,Type B,Average (known delays),Support for Business,6985.0,200-500,5-7 Years,Male,No,Vehicle,34.0,Renting,Professional / Management,No,Yes
+420,Type B,Good,Buying a New Car,3527.0,200-500,5-7 Years,Male,No,Vehicle,40.0,House Owner,Skilled Labor,No,Yes
+421,Type B,Good,Buying a New Car,7312.0,0-200,Unemployed,Male,No,No Security,69.0,Free,Professional / Management,No,Yes
+422,Type B,Good,Home furniture,1579.0,1000+,0-2 Years,Female,No,Property - Real Estate,22.0,House Owner,Skilled Labor,No,Yes
+423,Type B,critical,Support for Business,1939.0,0-200,7+ Years,Divorced,No,Property - Real Estate,32.0,House Owner,Skilled Labor,No,No
+424,Type B,Average (known delays),Home furniture,2071.0,0-200,Unemployed,Female,No,Savings Account,36.0,House Owner,Professional / Management,No,No
+425,Type B,Good,TV,1434.0,0-200,2-5 Years,Male,Yes,Property - Real Estate,33.0,House Owner,Skilled Labor,Yes,Yes
+426,Type B,Average (known delays),Support for Business,4459.0,0-200,2-5 Years,Divorced,No,Property - Real Estate,28.0,House Owner,Professional / Management,No,No
+427,Type B,critical,Buying a New Car,894.0,0-200,7+ Years,Male,No,Vehicle,36.0,House Owner,Skilled Labor,No,No
+428,Type B,Average (known delays),Buying a Used Car,5148.0,0-200,7+ Years,Female,No,No Security,72.0,Free,Professional / Management,No,No
+429,Type B,critical,Buying a New Car,1194.0,0-200,Unemployed,Male,No,Vehicle,66.0,Free,Not Employed,No,No
+430,Type B,Good,Home furniture,3245.0,0-200,2-5 Years,Female,No,Vehicle,35.0,House Owner,Skilled Labor,No,Yes
+431,Type B,Good,Support for Business,3853.0,200-500,5-7 Years,Male,No,No Security,32.0,Free,Services,No,No
+432,Type B,Good,Support for Business,3918.0,0-200,2-5 Years,Male,No,Vehicle,36.0,House Owner,Skilled Labor,No,No
+433,Type B,Good,TV,3033.0,200-500,2-5 Years,Male,Yes,Savings Account,22.0,Renting,Skilled Labor,No,No
+434,Type B,critical,Learning / Edu purposes,1510.0,0-200,7+ Years,Female,No,Vehicle,33.0,House Owner,Professional / Management,No,No
+435,Type B,Good,Home furniture,959.0,200-500,0-2 Years,Female,No,Vehicle,28.0,Renting,Skilled Labor,No,No
+436,Type B,Good,Buying a Used Car,2771.0,No Data,7+ Years,Male,No,No Security,37.0,Free,Skilled Labor,No,Yes
+437,Type B,Average (known delays),Home furniture,4312.0,0-200,7+ Years,Divorced,No,No Security,42.0,House Owner,Professional / Management,No,No
+438,Type B,critical,Home Devices,1429.0,0-200,5-7 Years,Male,No,Savings Account,28.0,House Owner,Skilled Labor,No,No
+439,Type B,critical,Advance Edu/training,934.0,No Data,5-7 Years,Female,No,Savings Account,37.0,House Owner,Services,No,Yes
+440,Type B,Good,TV,630.0,0-200,0-2 Years,Married,Yes,Property - Real Estate,24.0,House Owner,Services,No,Yes
+441,Type B,Good,TV,10973.0,1000+,5-7 Years,Male,Yes,No Security,25.0,House Owner,Skilled Labor,No,No
+442,Type B,Good,TV,873.0,0-200,2-5 Years,Married,Yes,Property - Real Estate,27.0,House Owner,Services,No,Yes
+443,Type B,Good,Buying a New Car,14568.0,No Data,Unemployed,Male,No,Savings Account,21.0,House Owner,Not Employed,No,No
+444,Type B,Good,Support for Business,2783.0,200-500,7+ Years,Divorced,No,Vehicle,62.0,Renting,Services,No,No
+445,Type B,Good,Buying a New Car,2169.0,0-200,2-5 Years,Female,Yes,No Security,24.0,House Owner,Skilled Labor,No,No
+446,Type B,Good,Home furniture,2050.0,No Data,5-7 Years,Male,No,Vehicle,22.0,House Owner,Skilled Labor,No,Yes
+447,Type B,Average (known delays),TV,7437.0,No Data,2-5 Years,Male,No,Property - Real Estate,28.0,House Owner,Services,No,Yes
+448,Type B,Good,TV,818.0,0-200,7+ Years,Male,No,Vehicle,39.0,House Owner,Skilled Labor,No,No
+449,Type B,Average (known delays),Buying a New Car,12186.0,No Data,Unemployed,Male,Yes,No Security,35.0,Free,Professional / Management,No,Yes
+450,Type B,Good,TV,3077.0,0-200,5-7 Years,Male,No,Property - Real Estate,30.0,House Owner,Skilled Labor,No,No
+451,Type B,critical,Buying a New Car,3894.0,200-500,0-2 Years,Divorced,No,Vehicle,38.0,House Owner,Skilled Labor,No,Yes
+452,Type B,Average (known delays),All other,7599.0,200-500,Unemployed,Male,No,No Security,31.0,Free,Professional / Management,No,Yes
+453,Type B,Good,TV,1112.0,0-200,2-5 Years,Female,Yes,Property - Real Estate,47.0,House Owner,Skilled Labor,No,Yes
+454,Type B,Good,Buying a Used Car,9413.0,0-200,0-2 Years,Married,No,Vehicle,28.0,Renting,Professional / Management,No,No
+455,Type B,Good,Home furniture,9968.0,0-200,0-2 Years,Female,No,Vehicle,28.0,House Owner,Skilled Labor,No,No
+456,Type B,critical,Home furniture,2765.0,1000+,5-7 Years,Male,No,Vehicle,33.0,House Owner,Skilled Labor,No,Yes
+457,Type B,Good,TV,3809.0,0-200,2-5 Years,Female,No,Vehicle,41.0,House Owner,Skilled Labor,No,No
+458,Type B,Good,Home furniture,1242.0,0-200,2-5 Years,Female,No,Property - Real Estate,24.0,House Owner,Skilled Labor,No,No
+459,Type B,Good,Buying a New Car,296.0,0-200,2-5 Years,Married,No,Property - Real Estate,24.0,Renting,Services,No,Yes
+460,Type B,Good,All other,5399.0,No Data,Unemployed,Male,No,No Security,40.0,Free,Not Employed,No,Yes
+461,Type B,Good,Buying a New Car,686.0,0-200,5-7 Years,Married,No,Vehicle,26.0,House Owner,Services,No,No
+462,Type B,Good,Home furniture,4362.0,No Data,2-5 Years,Female,No,Savings Account,47.0,House Owner,Services,No,Yes
+463,Type B,critical,Buying a New Car,4260.0,0-200,Unemployed,Married,No,Vehicle,30.0,House Owner,Professional / Management,No,No
+464,Type B,Good,TV,1080.0,0-200,7+ Years,Male,No,Vehicle,28.0,House Owner,Skilled Labor,No,Yes
+465,Type B,Good,Buying a New Car,7422.0,200-500,0-2 Years,Female,No,Savings Account,26.0,House Owner,Professional / Management,No,No
+466,Type B,Good,TV,2104.0,0-200,0-2 Years,Female,Yes,Savings Account,25.0,House Owner,Services,No,Yes
+467,Type B,Good,Home furniture,1539.0,0-200,2-5 Years,Divorced,No,Vehicle,31.0,House Owner,Services,No,Yes
+468,Type B,critical,Learning / Edu purposes,5748.0,0-200,0-2 Years,Female,No,No Security,25.0,Free,Skilled Labor,No,No
+469,Type B,Good,TV,3217.0,500-1000,0-2 Years,Married,No,Property - Real Estate,26.0,Renting,Skilled Labor,No,Yes
+470,Type B,Good,Support for Business,4441.0,0-200,7+ Years,Male,Yes,Property - Real Estate,31.0,House Owner,Professional / Management,No,Yes
+471,Type B,critical,TV,886.0,0-200,0-2 Years,Male,Yes,Property - Real Estate,22.0,House Owner,Skilled Labor,No,No
+472,Type B,Good,TV,3764.0,500-1000,Unemployed,Female,No,No Security,24.0,Renting,Not Employed,No,Yes
+473,Type B,critical,Learning / Edu purposes,1142.0,1000+,7+ Years,Male,No,No Security,34.0,Free,Skilled Labor,No,No
+474,Type B,Good,Home furniture,969.0,0-200,2-5 Years,Female,No,Vehicle,27.0,House Owner,Skilled Labor,Yes,No
+475,Type B,Good,Buying a New Car,1253.0,0-200,0-2 Years,Male,No,Property - Real Estate,23.0,House Owner,Services,No,No
+476,Type B,Good,Learning / Edu purposes,1258.0,No Data,2-5 Years,Male,No,No Security,62.0,Free,Skilled Labor,No,Yes
+477,Type B,Good,Home furniture,3015.0,0-200,5-7 Years,Female,No,Property - Real Estate,42.0,Renting,Skilled Labor,No,Yes
+478,Type B,Average (known delays),All other,14792.0,200-500,7+ Years,Female,No,No Security,61.0,Free,Professional / Management,No,No
+479,Type B,Good,Buying a New Car,14334.0,0-200,7+ Years,Male,No,No Security,55.0,Free,Professional / Management,No,No
+480,Type B,Good,Buying a Used Car,12987.0,0-200,Unemployed,Female,No,No Security,36.0,Free,Professional / Management,No,No
+481,Type B,critical,Home furniture,7390.0,0-200,Unemployed,Male,No,Savings Account,41.0,House Owner,Professional / Management,No,No
+482,Type B,critical,Support for Business,2327.0,500-1000,2-5 Years,Male,No,Vehicle,25.0,House Owner,Skilled Labor,No,Yes
+483,Type B,Good,Home furniture,988.0,1000+,0-2 Years,Female,No,Property - Real Estate,21.0,Renting,Services,No,Yes
+484,Type B,Average (known delays),Learning / Edu purposes,11764.0,200-500,5-7 Years,Male,No,No Security,32.0,Renting,Skilled Labor,No,Yes
+485,Type B,Good,Buying a New Car,1234.0,0-200,7+ Years,Divorced,No,Property - Real Estate,46.0,Renting,Skilled Labor,No,No
+486,Type B,critical,Support for Business,1907.0,No Data,2-5 Years,Married,No,Property - Real Estate,29.0,House Owner,Skilled Labor,No,Yes
+487,Type B,Average (known delays),Buying a New Car,2919.0,No Data,7+ Years,Male,No,Vehicle,42.0,House Owner,Skilled Labor,No,Yes
+488,Type B,Good,TV,2040.0,0-200,0-2 Years,Married,No,Savings Account,21.0,House Owner,Skilled Labor,No,No
+489,Type B,Good,TV,1980.0,0-200,7+ Years,Female,No,Vehicle,20.0,House Owner,Skilled Labor,No,Yes
+490,Type B,Good,Buying a New Car,1047.0,No Data,2-5 Years,Female,No,Savings Account,33.0,House Owner,Skilled Labor,No,No
+491,Type B,Good,Buying a Used Car,2044.0,No Data,2-5 Years,Male,No,Vehicle,30.0,House Owner,Skilled Labor,No,Yes
+492,Type B,critical,Buying a New Car,965.0,0-200,5-7 Years,Male,No,Property - Real Estate,47.0,House Owner,Services,No,No
+493,Type B,Good,Home furniture,2778.0,No Data,7+ Years,Female,No,Savings Account,27.0,House Owner,Skilled Labor,No,No
+494,Type B,Good,Buying a Used Car,2791.0,0-200,2-5 Years,Married,No,Vehicle,19.0,Renting,Skilled Labor,No,Yes
+495,Type B,Good,All other,11332.0,0-200,2-5 Years,Male,Yes,Vehicle,27.0,House Owner,Professional / Management,No,No
+496,Type B,Good,TV,1496.0,No Data,2-5 Years,Married,No,Property - Real Estate,23.0,House Owner,Skilled Labor,No,No
+497,Type B,Average (known delays),All other,2641.0,0-200,2-5 Years,Male,No,Vehicle,28.0,House Owner,Skilled Labor,No,No
+498,Type B,critical,Home furniture,5112.0,0-200,2-5 Years,Female,No,Vehicle,32.0,House Owner,Professional / Management,No,No
+499,Type B,Good,TV,2582.0,0-200,2-5 Years,Male,Yes,Property - Real Estate,36.0,House Owner,Skilled Labor,No,Yes
+500,Type B,Average (known delays),Renovation,1520.0,1000+,2-5 Years,Married,No,Savings Account,63.0,House Owner,Skilled Labor,No,No
+501,Type B,Good,Home furniture,3035.0,0-200,0-2 Years,Female,No,Property - Real Estate,32.0,Renting,Professional / Management,No,Yes
+502,Type B,Good,Advance Edu/training,759.0,No Data,7+ Years,Male,No,Savings Account,38.0,House Owner,Skilled Labor,No,Yes
+503,Type B,Good,TV,3109.0,200-500,0-2 Years,Married,No,Vehicle,24.0,Renting,Skilled Labor,No,No
+504,Type B,critical,TV,1262.0,0-200,2-5 Years,Married,No,Vehicle,33.0,House Owner,Skilled Labor,No,No
+505,Type B,Good,Support for Business,1047.0,200-500,5-7 Years,Male,No,Property - Real Estate,41.0,House Owner,Services,No,Yes
+506,Type B,critical,TV,3588.0,0-200,2-5 Years,Female,No,Property - Real Estate,25.0,House Owner,Services,No,No
+507,Type B,Good,Buying a New Car,1209.0,0-200,0-2 Years,Male,No,Savings Account,26.0,House Owner,Skilled Labor,No,Yes
+508,Type B,Average (known delays),Buying a New Car,1220.0,0-200,Unemployed,Male,No,Savings Account,48.0,House Owner,Professional / Management,No,No
+509,Type B,Good,Support for Business,8334.0,0-200,7+ Years,Female,No,No Security,42.0,Free,Professional / Management,No,No
+510,Type B,Good,TV,373.0,No Data,7+ Years,Male,No,Savings Account,39.0,House Owner,Skilled Labor,No,Yes
+511,Type B,Good,Home furniture,9043.0,200-500,0-2 Years,Male,Yes,No Security,27.0,Renting,Professional / Management,No,No
+512,Type B,Good,TV,1317.0,0-200,7+ Years,Married,Yes,Property - Real Estate,34.0,House Owner,Services,No,Yes
+513,Type B,critical,TV,1223.0,200-500,0-2 Years,Male,No,No Security,36.0,House Owner,Skilled Labor,No,No
+514,Type B,Average (known delays),Buying a New Car,6853.0,200-500,Unemployed,Male,No,Savings Account,32.0,House Owner,Professional / Management,No,No
+515,Type B,Average (known delays),TV,599.0,0-200,2-5 Years,Married,Yes,Property - Real Estate,18.0,Renting,Skilled Labor,No,No
+516,Type B,Good,TV,1115.0,0-200,2-5 Years,Female,Yes,Property - Real Estate,28.0,House Owner,Services,No,Yes
+517,Type B,Good,Buying a Used Car,7967.0,0-200,0-2 Years,Male,No,Vehicle,28.0,House Owner,Skilled Labor,No,Yes
+518,Type B,Good,Learning / Edu purposes,2274.0,0-200,5-7 Years,Male,No,Vehicle,32.0,House Owner,Skilled Labor,No,Yes
+519,Type B,Good,Buying a New Car,2650.0,200-500,2-5 Years,Female,No,Vehicle,30.0,Renting,Skilled Labor,No,No
+520,Type B,critical,Home furniture,3622.0,0-200,7+ Years,Female,No,Savings Account,38.0,House Owner,Skilled Labor,No,No
+521,Type B,Good,TV,1543.0,0-200,0-2 Years,Married,No,Property - Real Estate,23.0,Renting,Skilled Labor,No,No
+522,Type B,critical,Buying a New Car,1997.0,200-500,0-2 Years,Male,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+523,Type B,Good,Learning / Edu purposes,1219.0,0-200,5-7 Years,Female,No,Savings Account,66.0,House Owner,Professional / Management,No,Yes
+524,Type B,Good,TV,1333.0,0-200,0-2 Years,Male,No,Vehicle,24.0,House Owner,Skilled Labor,No,No
+525,Type B,Good,Buying a New Car,2297.0,200-500,0-2 Years,Female,No,Vehicle,30.0,House Owner,Skilled Labor,No,No
+526,Type B,critical,Home furniture,1940.0,0-200,0-2 Years,Male,No,Property - Real Estate,32.0,House Owner,Services,No,No
+527,Type B,Good,Buying a New Car,12396.0,No Data,2-5 Years,Male,No,No Security,39.0,Free,Skilled Labor,No,No
+528,Type B,Average (known delays),Support for Business,4724.0,No Data,2-5 Years,Male,No,Savings Account,39.0,House Owner,Professional / Management,No,Yes
+529,Type B,Average (known delays),TV,1565.0,200-500,5-7 Years,Female,No,Savings Account,23.0,Renting,Skilled Labor,No,Yes
+530,Type B,Good,TV,3988.0,No Data,5-7 Years,Male,No,Vehicle,40.0,House Owner,Skilled Labor,No,Yes
+531,Type B,Good,TV,1094.0,0-200,7+ Years,Male,No,Vehicle,28.0,House Owner,Services,No,Yes
+532,Type B,Good,TV,2949.0,0-200,5-7 Years,Female,No,Property - Real Estate,29.0,House Owner,Skilled Labor,No,Yes
+533,Type B,critical,Buying a New Car,2828.0,0-200,0-2 Years,Divorced,No,Vehicle,25.0,House Owner,Skilled Labor,No,No
+534,Type B,critical,Buying a New Car,1076.0,0-200,7+ Years,Male,Yes,Property - Real Estate,30.0,House Owner,Skilled Labor,No,No
+535,Type B,critical,Buying a New Car,3140.0,0-200,0-2 Years,Male,No,Property - Real Estate,48.0,House Owner,Services,No,No
+536,Type B,Good,Renovation,2400.0,0-200,0-2 Years,Male,No,No Security,33.0,Renting,Services,No,No
+537,Type B,Average (known delays),Buying a New Car,1975.0,No Data,2-5 Years,Female,No,Vehicle,41.0,Renting,Skilled Labor,No,Yes
+538,Type B,Good,Buying a New Car,2734.0,0-200,2-5 Years,Female,No,Savings Account,19.0,Renting,Services,No,No
+539,Type B,Average (known delays),Buying a New Car,936.0,200-500,0-2 Years,Female,No,Savings Account,30.0,House Owner,Services,No,No
+540,Type B,Good,Support for Business,4244.0,0-200,2-5 Years,Male,No,Property - Real Estate,35.0,House Owner,Services,No,No
+541,Type B,Good,TV,2349.0,0-200,0-2 Years,Female,Yes,Property - Real Estate,43.0,House Owner,Skilled Labor,No,Yes
+542,Type B,Good,Home furniture,936.0,0-200,2-5 Years,Female,No,Savings Account,31.0,House Owner,Skilled Labor,No,No
+543,Type B,Average (known delays),Learning / Edu purposes,1854.0,0-200,5-7 Years,Female,No,No Security,34.0,Free,Services,No,No
+544,Type B,Good,TV,2688.0,200-500,2-5 Years,Female,Yes,No Security,50.0,Free,Skilled Labor,No,No
+545,Type B,Good,Support for Business,12224.0,No Data,2-5 Years,Male,No,Vehicle,49.0,House Owner,Professional / Management,No,Yes
+546,Type B,Average (known delays),TV,9169.0,No Data,2-5 Years,Male,No,No Security,26.0,Free,Professional / Management,No,Yes
+547,Type B,Good,Home furniture,3450.0,200-500,2-5 Years,Female,Yes,Vehicle,22.0,Renting,Skilled Labor,No,No
+548,Type B,critical,Support for Business,3654.0,0-200,5-7 Years,Male,No,Savings Account,26.0,House Owner,Skilled Labor,No,No
+549,Type B,Average (known delays),Buying a New Car,1441.0,200-500,5-7 Years,Male,No,No Security,27.0,House Owner,Skilled Labor,No,No
+550,Type B,Good,TV,1447.0,No Data,0-2 Years,Male,No,Savings Account,21.0,House Owner,Skilled Labor,No,Yes
+551,Type B,Good,Buying a New Car,1366.0,0-200,0-2 Years,Female,No,Vehicle,23.0,House Owner,Services,No,No
+552,Type B,Good,Renovation,1325.0,0-200,7+ Years,Male,No,Vehicle,38.0,House Owner,Services,No,Yes
+553,Type B,Good,Home furniture,1925.0,0-200,2-5 Years,Male,No,Savings Account,37.0,House Owner,Services,No,No
+554,Type B,Average (known delays),Buying a New Car,8100.0,200-500,7+ Years,Male,No,Vehicle,41.0,House Owner,Professional / Management,No,No
+555,Type B,Good,Buying a New Car,902.0,0-200,7+ Years,Male,No,Vehicle,39.0,House Owner,Services,No,No
+556,Type B,Good,Support for Business,4232.0,0-200,2-5 Years,Female,No,Vehicle,30.0,House Owner,Skilled Labor,No,Yes
+557,Type B,critical,Home furniture,6370.0,0-200,7+ Years,Male,No,No Security,40.0,House Owner,Skilled Labor,No,No
+558,Type B,Average (known delays),Home furniture,1066.0,0-200,Unemployed,Male,No,Savings Account,35.0,House Owner,Professional / Management,No,No
+559,Type B,Average (known delays),Home furniture,3511.0,1000+,2-5 Years,Male,No,Vehicle,33.0,House Owner,Skilled Labor,No,Yes
+560,Type B,Good,TV,5601.0,200-500,2-5 Years,Married,No,Vehicle,22.0,House Owner,Skilled Labor,No,No
+561,Type B,Average (known delays),Support for Business,9862.0,200-500,5-7 Years,Male,No,Savings Account,33.0,House Owner,Services,No,Yes
+562,Type B,Average (known delays),Buying a New Car,2878.0,200-500,7+ Years,Male,No,No Security,30.0,Free,Skilled Labor,No,Yes
+563,Type B,Good,Renovation,2638.0,200-500,2-5 Years,Female,No,Property - Real Estate,23.0,House Owner,Services,No,Yes
+564,Type B,Good,TV,2914.0,200-500,0-2 Years,Male,No,Vehicle,28.0,House Owner,Skilled Labor,No,Yes
+565,Type B,Good,TV,1118.0,0-200,5-7 Years,Male,Yes,Property - Real Estate,28.0,House Owner,Skilled Labor,Yes,Yes
+566,Type B,Average (known delays),Support for Business,2517.0,200-500,7+ Years,Male,No,Savings Account,41.0,House Owner,Skilled Labor,No,Yes
+567,Type B,Good,Support for Business,2543.0,0-200,0-2 Years,Female,No,Savings Account,32.0,House Owner,Skilled Labor,No,Yes
+568,Type B,Good,Buying a New Car,6562.0,200-500,5-7 Years,Male,No,Savings Account,25.0,House Owner,Skilled Labor,No,No
+569,Type B,Good,Home furniture,2989.0,0-200,0-2 Years,Female,No,Savings Account,25.0,Renting,Skilled Labor,No,No
+570,Type B,Good,TV,1223.0,0-200,7+ Years,Female,No,Property - Real Estate,24.0,House Owner,Skilled Labor,No,Yes
+571,Type B,Good,TV,2129.0,0-200,2-5 Years,Male,No,Property - Real Estate,37.0,House Owner,Services,No,Yes
+572,Type B,Good,Buying a New Car,14047.0,0-200,5-7 Years,Male,No,No Security,29.0,House Owner,Professional / Management,No,No
+573,Type B,Good,Buying a Used Car,6162.0,200-500,7+ Years,Married,No,Vehicle,33.0,House Owner,Skilled Labor,No,Yes
+574,Type B,Average (known delays),Learning / Edu purposes,442.0,1000+,0-2 Years,Female,No,Savings Account,22.0,Renting,Skilled Labor,No,No
+575,Type B,Good,TV,801.0,500-1000,2-5 Years,Female,No,Property - Real Estate,66.0,House Owner,Services,No,Yes
+576,Type B,Average (known delays),Support for Business,6430.0,0-200,7+ Years,Female,No,No Security,57.0,Renting,Skilled Labor,No,No
+577,Type B,Average (known delays),TV,6418.0,0-200,0-2 Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,No
+578,Type B,Good,TV,777.0,0-200,5-7 Years,Female,Yes,Property - Real Estate,42.0,House Owner,Services,No,Yes
+579,Type B,Average (known delays),Home Devices,4007.0,No Data,0-2 Years,Female,No,No Security,30.0,House Owner,Not Employed,No,Yes
+580,Type B,Good,Buying a Used Car,11572.0,0-200,2-5 Years,Female,No,Vehicle,22.0,Renting,Professional / Management,No,No
+581,Type B,Good,Support for Business,4293.0,200-500,2-5 Years,Female,No,Vehicle,26.0,Renting,Services,No,No
+582,Type B,Average (known delays),TV,1058.0,0-200,2-5 Years,Male,No,Property - Real Estate,21.0,House Owner,Services,No,No
+583,Type B,Good,Support for Business,847.0,200-500,5-7 Years,Female,No,Property - Real Estate,24.0,Renting,Services,No,Yes
+584,Type B,Good,TV,1164.0,0-200,7+ Years,Married,Yes,Property - Real Estate,42.0,House Owner,Services,No,Yes
+585,Type B,critical,Home furniture,3630.0,0-200,7+ Years,Male,No,Vehicle,26.0,Renting,Skilled Labor,No,No
+586,Type B,Good,Renovation,3879.0,0-200,Unemployed,Female,No,Vehicle,67.0,House Owner,Skilled Labor,No,Yes
+587,Type B,critical,TV,4947.0,0-200,5-7 Years,Male,Yes,Property - Real Estate,27.0,House Owner,Skilled Labor,No,No
+588,Type B,Good,Advance Edu/training,1415.0,0-200,2-5 Years,Male,No,Property - Real Estate,33.0,House Owner,Services,No,Yes
+589,Type B,Good,Buying a New Car,849.0,200-500,0-2 Years,Female,No,Savings Account,25.0,House Owner,Services,No,No
+590,Type B,Good,Buying a Used Car,6473.0,No Data,Unemployed,Divorced,No,Property - Real Estate,61.0,House Owner,Professional / Management,No,Yes
+591,Type B,Good,Support for Business,1955.0,1000+,2-5 Years,Male,No,Savings Account,37.0,House Owner,Services,No,Yes
+592,Type B,Average (known delays),Learning / Edu purposes,6238.0,0-200,7+ Years,Male,No,No Security,49.0,Free,Skilled Labor,No,No
+593,Type B,Good,Support for Business,1202.0,0-200,7+ Years,Female,No,Savings Account,39.0,House Owner,Skilled Labor,No,No
+594,Type B,Good,Buying a New Car,1563.0,No Data,0-2 Years,Male,No,Property - Real Estate,34.0,House Owner,Not Employed,No,Yes
+595,Type B,critical,TV,1813.0,0-200,7+ Years,Female,Yes,Property - Real Estate,47.0,Renting,Services,No,No
+596,Type B,Good,Buying a New Car,7490.0,No Data,Unemployed,Female,No,Property - Real Estate,22.0,Renting,Not Employed,No,Yes
+597,Type B,Good,TV,606.0,0-200,0-2 Years,Married,No,Property - Real Estate,27.0,House Owner,Services,Yes,Yes
+598,Type B,Average (known delays),Buying a Used Car,9296.0,0-200,Unemployed,Male,No,No Security,55.0,Free,Professional / Management,No,No
+599,Type B,Good,Buying a New Car,1792.0,0-200,0-2 Years,Female,No,Property - Real Estate,27.0,Renting,Not Employed,No,No
+600,Type B,Good,Support for Business,911.0,0-200,0-2 Years,Married,No,Property - Real Estate,27.0,House Owner,Skilled Labor,No,Yes
+601,Type B,Good,TV,488.0,0-200,5-7 Years,Married,Yes,Property - Real Estate,27.0,House Owner,Services,No,Yes
+602,Type B,Average (known delays),Buying a New Car,7444.0,0-200,2-5 Years,Female,No,Savings Account,54.0,Renting,Skilled Labor,No,No
+603,Type B,Average (known delays),Support for Business,6691.0,No Data,2-5 Years,Male,No,No Security,38.0,Free,Skilled Labor,No,Yes
+604,Type B,Good,TV,5092.0,No Data,7+ Years,Female,No,Vehicle,42.0,House Owner,Skilled Labor,No,Yes
+605,Type B,Good,Home furniture,3983.0,No Data,5-7 Years,Male,No,Vehicle,33.0,House Owner,Skilled Labor,No,Yes
+606,Type B,critical,Buying a New Car,1325.0,1000+,2-5 Years,Female,No,Vehicle,39.0,House Owner,Skilled Labor,No,Yes
+607,Type B,critical,Buying a New Car,2197.0,No Data,7+ Years,Male,No,Property - Real Estate,37.0,House Owner,Skilled Labor,No,Yes
+608,Type B,Good,Home furniture,4074.0,0-200,5-7 Years,Divorced,No,Vehicle,41.0,House Owner,Skilled Labor,No,No
+609,Type B,critical,Support for Business,2829.0,No Data,5-7 Years,Male,No,No Security,36.0,House Owner,Skilled Labor,No,Yes
+610,Type B,Good,Support for Business,15689.0,0-200,2-5 Years,Male,No,Vehicle,23.0,House Owner,Skilled Labor,No,No
+611,Type B,critical,Buying a Used Car,5803.0,0-200,2-5 Years,Male,No,Vehicle,34.0,House Owner,Skilled Labor,No,No
+612,Type B,Good,Learning / Edu purposes,3716.0,No Data,2-5 Years,Married,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+613,Type B,Good,Buying a New Car,3215.0,No Data,2-5 Years,Female,No,Property - Real Estate,35.0,House Owner,Services,No,Yes
+614,Type B,critical,Home furniture,4744.0,0-200,0-2 Years,Female,No,Vehicle,27.0,House Owner,Services,No,No
+615,Type B,Good,TV,3001.0,No Data,7+ Years,Female,No,Vehicle,26.0,House Owner,Skilled Labor,No,Yes
+616,Type B,Good,All other,18427.0,0-200,2-5 Years,Female,No,Savings Account,32.0,House Owner,Professional / Management,Yes,No
+617,Type B,Good,Buying a New Car,2014.0,0-200,5-7 Years,Male,No,Savings Account,32.0,Renting,Skilled Labor,No,Yes
+618,Type B,Good,TV,1688.0,0-200,0-2 Years,Female,No,Vehicle,23.0,House Owner,Skilled Labor,No,No
+619,Type B,Average (known delays),TV,1938.0,200-500,0-2 Years,Male,No,No Security,31.0,House Owner,Professional / Management,No,No
+620,Type B,Good,TV,2073.0,0-200,0-2 Years,Married,No,Vehicle,32.0,Renting,Professional / Management,No,Yes
+621,Type B,Good,Learning / Edu purposes,6291.0,0-200,2-5 Years,Male,No,No Security,43.0,Free,Skilled Labor,No,No
+622,Type B,Good,Buying a New Car,8373.0,500-1000,0-2 Years,Female,No,Vehicle,28.0,House Owner,Skilled Labor,No,Yes
+623,Type B,critical,Support for Business,3600.0,0-200,Unemployed,Married,No,Vehicle,38.0,House Owner,Not Employed,No,No
+624,Type B,Good,Buying a Used Car,4115.0,500-1000,0-2 Years,Female,No,Vehicle,27.0,Renting,Skilled Labor,No,No
+625,Type B,critical,TV,1158.0,0-200,7+ Years,Male,No,Property - Real Estate,39.0,House Owner,Services,No,No
+626,Type B,Good,Home furniture,3082.0,200-500,7+ Years,Male,No,No Security,28.0,Free,Skilled Labor,No,Yes
+627,Type B,Average (known delays),Buying a New Car,2373.0,0-200,2-5 Years,Divorced,No,Savings Account,49.0,House Owner,Skilled Labor,No,No
+628,Type B,Good,Renovation,474.0,0-200,0-2 Years,Married,No,Savings Account,21.0,House Owner,Services,No,Yes
+629,Type B,Good,TV,1720.0,No Data,2-5 Years,Female,No,Vehicle,25.0,House Owner,Skilled Labor,No,Yes
+630,Type B,critical,TV,2539.0,500-1000,2-5 Years,Male,No,Savings Account,21.0,House Owner,Services,No,No
+631,Type B,Good,Renovation,1522.0,200-500,2-5 Years,Male,Yes,Property - Real Estate,21.0,House Owner,Skilled Labor,No,Yes
+632,Type B,Good,TV,770.0,0-200,2-5 Years,Female,Yes,Property - Real Estate,64.0,House Owner,Skilled Labor,No,Yes
+633,Type B,Average (known delays),Support for Business,2440.0,No Data,7+ Years,Male,No,Savings Account,41.0,House Owner,Skilled Labor,No,Yes
+634,Type B,Average (known delays),Buying a New Car,1266.0,200-500,2-5 Years,Married,No,Savings Account,24.0,Renting,Skilled Labor,No,No
+635,Type B,critical,Home furniture,8393.0,0-200,5-7 Years,Male,No,Savings Account,48.0,House Owner,Skilled Labor,No,No
+636,Type B,critical,TV,1758.0,0-200,7+ Years,Male,No,Savings Account,49.0,House Owner,Services,No,No
+637,Type B,critical,Buying a Used Car,4594.0,200-500,Unemployed,Male,No,Vehicle,28.0,House Owner,Skilled Labor,No,Yes
+638,Type B,Good,Support for Business,1582.0,200-500,2-5 Years,Female,No,Savings Account,25.0,Renting,Services,No,Yes
+639,Type B,Good,Buying a New Car,1473.0,200-500,7+ Years,Married,No,Property - Real Estate,40.0,Renting,Services,No,Yes
+640,Type B,Good,Buying a Used Car,2464.0,No Data,0-2 Years,Married,No,Vehicle,25.0,Renting,Skilled Labor,No,Yes
+641,Type B,Good,Home furniture,1782.0,0-200,2-5 Years,Male,No,Property - Real Estate,26.0,Renting,Services,No,Yes
+642,Type B,Good,Home furniture,3986.0,0-200,5-7 Years,Female,No,Savings Account,27.0,Renting,Skilled Labor,No,Yes
+643,Type B,Good,TV,1966.0,0-200,5-7 Years,Male,No,Vehicle,29.0,Renting,Professional / Management,No,Yes
+644,Type B,Good,TV,2112.0,0-200,5-7 Years,Married,No,Property - Real Estate,31.0,Renting,Skilled Labor,No,Yes
+645,Type B,Good,Buying a New Car,1205.0,200-500,2-5 Years,Male,No,No Security,34.0,Renting,Skilled Labor,Yes,Yes
+646,Type B,Good,TV,449.0,0-200,Unemployed,Female,Yes,Property - Real Estate,22.0,Renting,Skilled Labor,No,No
+647,Type B,Good,TV,1905.0,200-500,2-5 Years,Male,No,Vehicle,28.0,Renting,Professional / Management,No,Yes
+648,Type B,Good,Buying a Used Car,4695.0,No Data,0-2 Years,Female,No,Vehicle,20.0,Renting,Skilled Labor,No,Yes
+649,Type B,Good,Buying a Used Car,4816.0,No Data,5-7 Years,Female,No,Savings Account,26.0,Renting,Services,No,Yes
+650,Type B,Good,Home Devices,1251.0,0-200,0-2 Years,Female,No,Property - Real Estate,24.0,Renting,Skilled Labor,No,Yes
+651,Type B,Good,Home furniture,1783.0,0-200,2-5 Years,Married,No,Savings Account,21.0,Renting,Skilled Labor,No,Yes
+652,Type B,Good,Buying a New Car,1284.0,No Data,5-7 Years,Female,No,Savings Account,23.0,Renting,Skilled Labor,No,Yes
+653,Type B,Good,TV,1146.0,No Data,0-2 Years,Female,No,Property - Real Estate,19.0,Renting,Skilled Labor,No,Yes
+654,Type B,Good,Buying a New Car,1602.0,500-1000,2-5 Years,Male,No,No Security,38.0,Renting,Services,Yes,Yes
+655,Type B,Good,Buying a New Car,3204.0,1000+,5-7 Years,Female,No,Vehicle,22.0,Renting,Skilled Labor,No,Yes
+656,Type B,Good,Renovation,675.0,500-1000,5-7 Years,Married,No,Property - Real Estate,21.0,Renting,Services,No,Yes
+657,Type B,Good,Buying a New Car,1423.0,200-500,2-5 Years,Male,No,Property - Real Estate,33.0,Renting,Services,Yes,Yes
+658,Type B,Good,Buying a New Car,3523.0,0-200,2-5 Years,Male,Yes,Savings Account,24.0,Renting,Skilled Labor,No,Yes
+659,Type B,Good,Buying a Used Car,5445.0,No Data,Unemployed,Female,No,Savings Account,28.0,Renting,Professional / Management,No,Yes
+660,Type B,Good,Home furniture,1392.0,0-200,2-5 Years,Female,No,Property - Real Estate,24.0,Renting,Skilled Labor,No,Yes
+661,Type B,Good,Home furniture,1992.0,0-200,0-2 Years,Female,Yes,Vehicle,21.0,Renting,Skilled Labor,No,No
+662,Type B,Good,Buying a Used Car,1248.0,500-1000,2-5 Years,Male,No,Savings Account,51.0,Renting,Skilled Labor,No,Yes
+663,Type B,Good,Home furniture,1126.0,500-1000,2-5 Years,Female,No,Vehicle,31.0,Renting,Services,No,No
+664,Type B,Good,Buying a New Car,2587.0,0-200,2-5 Years,Female,No,Property - Real Estate,22.0,Renting,Skilled Labor,No,No
+665,Type B,Good,Buying a Used Car,2607.0,1000+,2-5 Years,Female,No,Vehicle,27.0,Renting,Skilled Labor,No,Yes
+666,Type B,Good,Buying a Used Car,2920.0,No Data,0-2 Years,Female,No,Property - Real Estate,31.0,Renting,Skilled Labor,No,Yes
+667,Type B,Good,Home furniture,3064.0,500-1000,7+ Years,Male,No,No Security,33.0,Renting,Skilled Labor,No,Yes
+668,Type B,Good,Home furniture,2313.0,200-500,0-2 Years,Female,No,Savings Account,22.0,Renting,Skilled Labor,No,Yes
+669,Type B,Good,Home furniture,610.0,0-200,0-2 Years,Female,No,Property - Real Estate,23.0,Renting,Services,No,Yes
+670,Type B,Good,Buying a New Car,6767.0,No Data,2-5 Years,Male,No,Vehicle,69.0,Renting,Skilled Labor,No,No
+671,Type B,Good,Buying a New Car,3578.0,200-500,2-5 Years,Male,Yes,Property - Real Estate,28.0,Renting,Skilled Labor,Yes,Yes
+672,Type B,Good,Home furniture,2216.0,0-200,2-5 Years,Male,No,Property - Real Estate,24.0,Renting,Services,No,No
+673,Type B,Good,Home furniture,2238.0,500-1000,2-5 Years,Female,No,Vehicle,18.0,Renting,Skilled Labor,No,Yes
+674,Type B,Good,Home furniture,2191.0,No Data,5-7 Years,Female,No,Property - Real Estate,34.0,Renting,Services,No,Yes
+675,Type B,Good,TV,1398.0,No Data,2-5 Years,Married,No,Property - Real Estate,41.0,Renting,Skilled Labor,No,Yes
+676,Type B,Good,TV,3581.0,0-200,7+ Years,Female,No,Vehicle,52.0,Renting,Professional / Management,No,Yes
+677,Type B,Good,TV,7179.0,No Data,5-7 Years,Married,No,Savings Account,28.0,Renting,Skilled Labor,No,Yes
+678,Type B,Good,Support for Business,4862.0,0-200,Unemployed,Male,No,Vehicle,33.0,Renting,Professional / Management,No,No
+679,Type C,Good,Home furniture,-548541254.0,No Data,Unemployed,Female_,No,Vehicle,327.0,House Owner,Skilled Labor,Yes,Yes
+680,Type C,critical,TV,1182.0,No Data,7+ Years,Male,No,Property - Real Estate,68.0,House Owner,Skilled Labor,No,Yes
+681,Type C,Good,Home furniture,7887.0,0-200,5-7 Years,Male,Yes,Savings Account,47.0,Free,Skilled Labor,No,Yes
+682,Type C,Average (known delays),Buying a New Car,4889.0,0-200,2-5 Years,Male,No,No Security,52.0,Free,Skilled Labor,No,No
+683,Type C,Good,Support for Business,4317.0,0-200,0-2 Years,Female,No,Savings Account,24.0,Renting,Skilled Labor,No,No
+684,Type C,critical,Buying a New Car,1212.0,0-200,7+ Years,Male,No,Vehicle,59.0,House Owner,Services,No,No
+685,Type C,Good,Buying a New Car,1423.0,0-200,2-5 Years,Female,No,Vehicle,27.0,Renting,Skilled Labor,No,Yes
+686,Type C,Good,Buying a New Car,,,,,,,,,,,
+687,Type C,Good,TV,1300.0,200-500,2-5 Years,Female,No,Vehicle,32.0,House Owner,Services,No,No
+688,Type C,Good,Support for Business,8079.0,No Data,0-2 Years,Male,No,Vehicle,23.0,House Owner,Skilled Labor,No,Yes
+689,Type C,Good,TV,2653.0,500-1000,2-5 Years,Male,No,Property - Real Estate,46.0,Renting,Skilled Labor,No,Yes
+690,Type C,critical,Buying a New Car,2245.0,0-200,0-2 Years,Male,No,Property - Real Estate,49.0,Renting,Services,Yes,No
+691,Type C,Good,Home furniture,1375.0,0-200,2-5 Years,Male,No,Property - Real Estate,35.0,House Owner,Services,No,Yes
+692,Type C,Average (known delays),Support for Business,6855.0,0-200,7+ Years,Male,No,No Security,61.0,House Owner,Skilled Labor,No,No
+693,Type C,Good,Home furniture,4026.0,0-200,2-5 Years,Male,No,Vehicle,28.0,House Owner,Skilled Labor,No,Yes
+694,Type C,critical,Buying a Used Car,6197.0,200-500,5-7 Years,Married,No,Vehicle,24.0,Renting,Skilled Labor,No,Yes
+695,Type C,critical,Buying a Used Car,6146.0,0-200,7+ Years,Female,No,No Security,58.0,Free,Services,No,No
+696,Type C,Good,Buying a Used Car,1359.0,500-1000,Unemployed,Female,No,Savings Account,24.0,Renting,Not Employed,No,Yes
+697,Type C,critical,Home furniture,6236.0,0-200,0-2 Years,Female,Yes,No Security,24.0,Renting,Services,No,No
+698,Type C,critical,All other,1177.0,0-200,7+ Years,Male,No,No Security,52.0,Free,Professional / Management,No,No
+699,Type C,Good,Learning / Edu purposes,1993.0,No Data,7+ Years,Male,No,No Security,40.0,House Owner,Professional / Management,No,No
+700,Type C,critical,Buying a Used Car,1546.0,0-200,7+ Years,Male,No,No Security,64.0,Free,Professional / Management,No,No
+701,Type C,Good,TV,3980.0,0-200,0-2 Years,Male,No,Vehicle,33.0,House Owner,Skilled Labor,No,No
+702,Type C,Good,All other,1764.0,0-200,7+ Years,Female,Yes,Property - Real Estate,60.0,House Owner,Services,No,Yes
+703,Type C,Good,TV,2326.0,0-200,7+ Years,Male,No,Property - Real Estate,51.0,House Owner,Services,No,Yes
+704,Type C,Good,Buying a New Car,2251.0,200-500,5-7 Years,Male,No,Vehicle,29.0,House Owner,Professional / Management,No,Yes
+705,Type C,Good,Renovation,1120.0,0-200,5-7 Years,Male,No,Property - Real Estate,26.0,House Owner,Skilled Labor,No,No
+706,Type C,critical,Buying a Used Car,1415.0,0-200,7+ Years,Male,No,Property - Real Estate,53.0,House Owner,Skilled Labor,No,No
+707,Type C,Good,Home furniture,7723.0,No Data,0-2 Years,Female,No,Savings Account,28.0,House Owner,Skilled Labor,Yes,Yes
+708,Type C,Good,TV,1692.0,500-1000,7+ Years,Married,No,Property - Real Estate,37.0,House Owner,Skilled Labor,No,Yes
+709,Type C,Good,TV,7182.0,No Data,5-7 Years,Female,No,Vehicle,30.0,House Owner,Professional / Management,No,No
+710,Type C,critical,Home furniture,2145.0,No Data,0-2 Years,Female,Yes,Property - Real Estate,26.0,Renting,Skilled Labor,Yes,Yes
+711,Type C,critical,Home furniture,4286.0,500-1000,2-5 Years,Female,No,Vehicle,22.0,House Owner,Skilled Labor,No,No
+712,Type C,Good,TV,1851.0,0-200,2-5 Years,Female,No,Property - Real Estate,24.0,House Owner,Skilled Labor,No,No
+713,Type C,critical,Buying a New Car,2129.0,0-200,2-5 Years,Male,No,Savings Account,30.0,House Owner,Skilled Labor,No,No
+714,Type C,Good,TV,704.0,0-200,2-5 Years,Married,No,Property - Real Estate,42.0,House Owner,Services,No,Yes
+715,Type C,critical,Buying a New Car,3507.0,0-200,2-5 Years,Female,Yes,Property - Real Estate,27.0,House Owner,Skilled Labor,No,No
+716,Type C,Average (known delays),Learning / Edu purposes,6891.0,0-200,2-5 Years,Male,No,Savings Account,30.0,House Owner,Skilled Labor,No,No
+717,Type C,Good,TV,3423.0,0-200,2-5 Years,Male,No,Vehicle,25.0,House Owner,Professional / Management,No,Yes
+718,Type C,Good,Home furniture,2470.0,0-200,2-5 Years,Male,No,Vehicle,21.0,House Owner,Skilled Labor,No,No
+719,Type C,critical,Buying a New Car,872.0,0-200,7+ Years,Female,No,No Security,41.0,House Owner,Skilled Labor,No,No
+720,Type C,critical,Home furniture,5386.0,0-200,2-5 Years,Male,Yes,Savings Account,26.0,House Owner,Skilled Labor,No,No
+721,Type C,critical,Home furniture,5387.0,,,,,,,,,,
+722,Type C,Good,Home furniture,1301.0,0-200,2-5 Years,Female,No,Vehicle,22.0,Renting,Skilled Labor,No,No
+723,Type C,critical,Renovation,1292.0,200-500,7+ Years,Male,Yes,Property - Real Estate,50.0,House Owner,Skilled Labor,Yes,Yes
+724,Type C,Average (known delays),Advance Edu/training,345.0,0-200,7+ Years,Married,No,Vehicle,45.0,House Owner,Services,No,No
+725,Type C,Good,Home furniture,1141.0,0-200,Unemployed,Female,No,Vehicle,33.0,House Owner,Skilled Labor,No,No
+726,Type C,Good,Buying a New Car,953.0,0-200,7+ Years,Male,No,Vehicle,34.0,Renting,Skilled Labor,No,No
+727,Type C,Average (known delays),Learning / Edu purposes,3418.0,0-200,0-2 Years,Male,No,Savings Account,27.0,House Owner,Skilled Labor,No,No
+728,Type C,Good,Home furniture,2589.0,0-200,2-5 Years,Divorced,No,Vehicle,42.0,House Owner,Skilled Labor,No,Yes
+729,Type C,critical,TV,349.0,500-1000,7+ Years,Male,No,Vehicle,50.0,House Owner,Skilled Labor,No,Yes
+730,Type C,critical,Buying a New Car,590.0,0-200,7+ Years,Male,No,Property - Real Estate,65.0,House Owner,Skilled Labor,No,No
+731,Type C,Average (known delays),Buying a New Car,1665.0,No Data,2-5 Years,Male,No,Savings Account,42.0,House Owner,Services,No,No
+732,Type C,Good,TV,683.0,200-500,5-7 Years,Married,No,Savings Account,20.0,House Owner,Skilled Labor,No,No
+733,Type C,Good,Buying a New Car,1185.0,0-200,2-5 Years,Married,No,Property - Real Estate,25.0,House Owner,Services,No,Yes
+734,Type C,Good,Advance Edu/training,913.0,0-200,5-7 Years,Married,No,Savings Account,21.0,Renting,Skilled Labor,No,No
+735,Type C,critical,Buying a Used Car,10627.0,0-200,7+ Years,Male,No,No Security,38.0,Free,Professional / Management,No,No
+736,Type C,Good,Support for Business,6588.0,0-200,2-5 Years,Married,No,Vehicle,20.0,House Owner,Services,No,Yes
+737,Type C,Good,,,,,,,,,,,,
+738,Type C,Good,Support for Business,5303.0,0-200,Unemployed,Male,No,Savings Account,48.0,House Owner,Skilled Labor,No,No
+739,Type C,Good,Support for Business,3117.0,0-200,5-7 Years,Male,No,Savings Account,29.0,House Owner,Skilled Labor,No,Yes
+740,Type C,Good,Home furniture,3041.0,0-200,2-5 Years,Divorced,No,Property - Real Estate,25.0,Renting,Services,No,Yes
+741,Type C,Good,Learning / Edu purposes,1213.0,No Data,2-5 Years,Female,No,Savings Account,22.0,Renting,Skilled Labor,No,Yes
+742,Type C,Good,Home furniture,7883.0,0-200,7+ Years,Male,No,No Security,51.0,Free,Professional / Management,No,No
+743,Type C,Good,Home furniture,3165.0,0-200,0-2 Years,Male,No,No Security,20.0,Free,Skilled Labor,No,Yes
+744,Type C,Good,TV,1824.0,0-200,Unemployed,Male,No,Vehicle,32.0,House Owner,Professional / Management,No,No
+745,Type C,Good,TV,2525.0,0-200,7+ Years,Male,Yes,Savings Account,41.0,House Owner,Skilled Labor,No,Yes
+746,Type C,Good,Buying a New Car,933.0,No Data,7+ Years,Female,No,Vehicle,30.0,House Owner,Skilled Labor,No,No
+747,Type C,Good,Buying a Used Car,4617.0,0-200,7+ Years,Male,No,No Security,25.0,Free,Skilled Labor,No,No
+748,Type C,critical,Buying a New Car,676.0,1000+,5-7 Years,Female,No,Property - Real Estate,41.0,House Owner,Services,No,Yes
+749,Type C,Average (known delays),TV,2157.0,0-200,2-5 Years,Divorced,No,No Security,27.0,Free,Skilled Labor,No,No
+750,Type C,Good,Home furniture,1667.0,0-200,2-5 Years,Male,No,Property - Real Estate,26.0,House Owner,Skilled Labor,No,Yes
+751,Type C,Good,TV,1614.0,0-200,7+ Years,Female,No,Vehicle,56.0,House Owner,Skilled Labor,No,Yes
+752,Type C,critical,Buying a New Car,5309.0,0-200,7+ Years,Male,No,No Security,37.0,Free,Professional / Management,No,No
+753,Type C,Good,Buying a New Car,8990.0,0-200,7+ Years,Divorced,No,Savings Account,47.0,House Owner,Professional / Management,Yes,No
+754,Type C,Good,Renovation,12018.0,0-200,0-2 Years,Divorced,No,No Security,34.0,House Owner,Services,No,No
+755,Type C,Good,Home furniture,1281.0,No Data,7+ Years,Divorced,No,Savings Account,50.0,House Owner,Services,No,Yes
+756,Type C,Good,Buying a New Car,10735.0,0-200,0-2 Years,Female,No,Property - Real Estate,35.0,House Owner,Services,No,Yes
+757,Type C,Good,Buying a Used Car,4792.0,0-200,5-7 Years,Male,No,Savings Account,25.0,House Owner,Skilled Labor,No,Yes
+758,Type C,Average (known delays),TV,1030.0,0-200,0-2 Years,Married,No,Property - Real Estate,48.0,House Owner,Skilled Labor,No,No
+759,Type C,critical,Buying a Used Car,6430.0,0-200,7+ Years,Female,No,No Security,46.0,Free,Professional / Management,No,No
+760,Type C,critical,Buying a New Car,1050.0,0-200,5-7 Years,Male,Yes,Savings Account,47.0,House Owner,Skilled Labor,No,No
+761,Type C,Good,TV,747.0,200-500,0-2 Years,Married,No,No Security,31.0,House Owner,Services,No,No
+762,Type C,Average (known delays),Home furniture,2748.0,0-200,7+ Years,Male,No,Vehicle,29.0,House Owner,Skilled Labor,No,No
+763,Type C,Good,Home furniture,710.0,0-200,2-5 Years,Male,Yes,Savings Account,37.0,House Owner,Services,No,Yes
+764,Type C,Average (known delays),Home furniture,3651.0,0-200,7+ Years,Female,No,Savings Account,28.0,House Owner,Services,No,No
+765,Type C,Good,TV,1943.0,0-200,0-2 Years,Divorced,No,Savings Account,32.0,House Owner,Skilled Labor,No,No
+766,Type C,Good,Buying a Used Car,2927.0,0-200,5-7 Years,Male,No,No Security,32.0,Free,Professional / Management,No,Yes
+767,Type C,Good,Home furniture,2678.0,1000+,2-5 Years,Male,No,Vehicle,30.0,House Owner,Skilled Labor,No,Yes
+768,Type C,critical,Buying a New Car,3401.0,0-200,5-7 Years,Male,No,Property - Real Estate,38.0,House Owner,Services,Yes,No
+769,Type C,critical,Buying a Used Car,6626.0,0-200,Unemployed,Male,No,No Security,73.0,Free,Professional / Management,No,No
+770,Type C,Good,Home furniture,4113.0,0-200,7+ Years,Male,No,No Security,21.0,Renting,Skilled Labor,No,No
+771,Type C,critical,Home furniture,3404.0,0-200,2-5 Years,Divorced,No,Property - Real Estate,42.0,Renting,Professional / Management,No,No
+772,Type C,Good,Home Devices,1288.0,No Data,2-5 Years,Female,No,Vehicle,26.0,Renting,Skilled Labor,No,No
+773,Type C,Good,Home furniture,4177.0,0-200,2-5 Years,Male,No,Savings Account,29.0,House Owner,Skilled Labor,No,Yes
+774,Type C,Good,Home furniture,3605.0,0-200,5-7 Years,Female,No,Vehicle,27.0,Renting,Services,No,Yes
+775,Type C,Good,TV,6212.0,0-200,2-5 Years,Male,No,Savings Account,28.0,Renting,Skilled Labor,No,No
+776,Type C,Good,Home furniture,2414.0,0-200,5-7 Years,Female,No,Property - Real Estate,21.0,Renting,Skilled Labor,No,No
+777,Type C,Good,Home furniture,2474.0,0-200,Unemployed,Male,No,Vehicle,24.0,House Owner,Not Employed,No,No
+778,Type C,Good,Home furniture,3651.0,0-200,0-2 Years,Female,No,Vehicle,21.0,Renting,Skilled Labor,No,Yes
+779,Type C,Good,Home furniture,3456.0,0-200,7+ Years,Male,No,Vehicle,43.0,House Owner,Skilled Labor,No,No
+780,Type C,Average (known delays),Support for Business,7686.0,0-200,5-7 Years,Female,Yes,Vehicle,37.0,Renting,Skilled Labor,No,No
+781,Type C,Good,Home furniture,2231.0,No Data,5-7 Years,Male,No,Vehicle,41.0,House Owner,Skilled Labor,No,Yes
+782,Type C,Good,Buying a New Car,3251.0,0-200,5-7 Years,Male,No,No Security,40.0,Free,Professional / Management,No,Yes
+783,Type C,critical,TV,1965.0,0-200,5-7 Years,Female,No,Vehicle,33.0,House Owner,Skilled Labor,No,No
+784,Type C,Good,Home furniture,2582.0,0-200,Unemployed,Female,No,No Security,55.0,Free,Professional / Management,No,Yes
+785,Type C,critical,Home furniture,2354.0,0-200,2-5 Years,Married,No,Savings Account,45.0,House Owner,Skilled Labor,No,No
+786,Type C,Good,TV,1065.0,0-200,0-2 Years,Married,No,Property - Real Estate,28.0,House Owner,Skilled Labor,Yes,Yes
+787,Type C,Good,Buying a New Car,1400.0,No Data,2-5 Years,Female,No,Savings Account,36.0,House Owner,Skilled Labor,No,No
+788,Type C,Good,Buying a New Car,2591.0,0-200,0-2 Years,Male,No,Property - Real Estate,32.0,House Owner,Services,No,No
+789,Type C,Average (known delays),Learning / Edu purposes,8472.0,No Data,2-5 Years,Female,No,Vehicle,21.0,Renting,Skilled Labor,No,Yes
+790,Type C,critical,Renovation,1208.0,0-200,Unemployed,Female,No,No Security,53.0,Free,Not Employed,No,No
+791,Type C,critical,Home furniture,1876.0,0-200,Unemployed,Male,No,No Security,35.0,Free,Professional / Management,No,No
+792,Type C,Good,Home furniture,2151.0,0-200,2-5 Years,Male,No,Property - Real Estate,25.0,House Owner,Skilled Labor,No,Yes
+793,Type C,critical,Renovation,3405.0,0-200,Unemployed,Male,Yes,Vehicle,64.0,House Owner,Not Employed,No,No
+794,Type C,Good,Home furniture,1624.0,0-200,2-5 Years,Female,Yes,Savings Account,29.0,House Owner,Skilled Labor,No,Yes
+795,Type C,Good,Buying a New Car,1849.0,0-200,0-2 Years,Female,No,Vehicle,34.0,House Owner,Skilled Labor,No,No
+796,Type C,Good,Buying a New Car,4825.0,0-200,5-7 Years,Male,Yes,Savings Account,32.0,House Owner,Skilled Labor,No,No
+797,Type C,critical,Buying a New Car,3910.0,0-200,2-5 Years,Male,No,Property - Real Estate,38.0,Renting,Skilled Labor,No,No
+798,Type C,Good,Buying a Used Car,3392.0,0-200,7+ Years,Male,No,No Security,33.0,Free,Skilled Labor,No,No
+799,Type C,Good,Home Devices,352.0,0-200,0-2 Years,Female,No,Property - Real Estate,28.0,House Owner,Skilled Labor,No,Yes
+800,Type C,Good,Home furniture,3628.0,0-200,2-5 Years,Male,Yes,Savings Account,35.0,House Owner,Skilled Labor,No,Yes
+801,Type C,Good,Buying a New Car,1738.0,0-200,0-2 Years,Male,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,Yes
+802,Type C,Good,Buying a Used Car,2928.0,0-200,2-5 Years,Male,Yes,No Security,62.0,House Owner,Skilled Labor,No,Yes
+803,Type C,Average (known delays),TV,1667.0,0-200,0-2 Years,Female,No,Vehicle,31.0,Renting,Services,No,No
+804,Type C,Good,Learning / Edu purposes,451.0,0-200,0-2 Years,Female,No,Savings Account,21.0,House Owner,Skilled Labor,No,No
+805,Type C,Good,Buying a New Car,656.0,0-200,2-5 Years,Male,No,Vehicle,27.0,House Owner,Services,No,No
+806,Type C,Good,Home furniture,3122.0,0-200,0-2 Years,Female,No,Savings Account,25.0,Renting,Skilled Labor,No,No
+807,Type C,critical,Home furniture,1482.0,0-200,7+ Years,Male,No,Vehicle,45.0,House Owner,Skilled Labor,No,No
+808,Type C,Good,Home furniture,3637.0,1000+,7+ Years,Female,No,Savings Account,57.0,Renting,Skilled Labor,No,Yes
+809,Type C,critical,Buying a New Car,2125.0,0-200,2-5 Years,Male,No,Property - Real Estate,37.0,Renting,Services,Yes,No
+810,Type C,Good,Home furniture,2997.0,No Data,2-5 Years,Married,No,Vehicle,20.0,House Owner,Skilled Labor,No,No
+811,Type C,Good,Buying a New Car,3127.0,0-200,0-2 Years,Female,No,Savings Account,29.0,House Owner,Skilled Labor,No,No
+812,Type C,Good,Buying a Used Car,5501.0,0-200,7+ Years,Male,No,No Security,41.0,Free,Skilled Labor,No,Yes
+813,Type C,Good,Buying a New Car,1208.0,0-200,0-2 Years,Female,No,Savings Account,24.0,Renting,Skilled Labor,No,No
+814,Type C,Good,Buying a New Car,776.0,0-200,5-7 Years,Male,No,Property - Real Estate,25.0,House Owner,Skilled Labor,No,No
+815,Type C,critical,Buying a New Car,621.0,0-200,5-7 Years,Female,No,Savings Account,37.0,House Owner,Skilled Labor,Yes,No
+816,Type C,critical,Buying a New Car,1364.0,0-200,0-2 Years,Male,No,Property - Real Estate,39.0,House Owner,Services,Yes,No
+817,Type C,Good,Buying a New Car,1216.0,200-500,7+ Years,Male,No,Savings Account,41.0,House Owner,Skilled Labor,No,Yes
+818,Type C,Good,TV,3191.0,0-200,2-5 Years,Female,No,Property - Real Estate,24.0,House Owner,Skilled Labor,No,No
+819,Type C,Good,Home furniture,7130.0,0-200,2-5 Years,Male,No,No Security,53.0,Free,Skilled Labor,No,No
+820,Type C,Good,TV,2305.0,0-200,2-5 Years,Divorced,No,Vehicle,31.0,Renting,Skilled Labor,No,No
+821,Type C,Good,Buying a New Car,665.0,0-200,0-2 Years,Male,No,Property - Real Estate,43.0,House Owner,Services,No,Yes
+822,Type C,Good,Buying a New Car,1394.0,No Data,Unemployed,Female,No,Savings Account,75.0,House Owner,Professional / Management,No,Yes
+823,Type C,Good,Buying a New Car,7775.0,0-200,7+ Years,Male,No,No Security,40.0,Free,Professional / Management,No,No
+824,Type C,Good,Home furniture,6363.0,No Data,7+ Years,Male,No,Savings Account,30.0,House Owner,Skilled Labor,No,No
+825,Type C,Average (known delays),Buying a New Car,1341.0,0-200,Unemployed,Male,No,Property - Real Estate,45.0,Free,Skilled Labor,No,No
+826,Type C,Average (known delays),TV,627.0,0-200,2-5 Years,Female,No,Property - Real Estate,26.0,House Owner,Services,No,No
+827,Type C,Good,TV,7016.0,0-200,5-7 Years,Married,Yes,Property - Real Estate,34.0,House Owner,Skilled Labor,No,No
+828,Type C,Average (known delays),Home furniture,3555.0,0-200,5-7 Years,Male,No,Vehicle,26.0,House Owner,Skilled Labor,No,No
+829,Type C,Good,Buying a Used Car,2970.0,No Data,7+ Years,Male,No,No Security,47.0,Free,Skilled Labor,No,Yes
+830,Type C,Average (known delays),TV,1552.0,0-200,5-7 Years,Male,Yes,Vehicle,22.0,Renting,Services,No,No
+831,Type C,Good,Buying a New Car,1391.0,0-200,5-7 Years,Divorced,No,Vehicle,37.0,House Owner,Skilled Labor,No,No
+832,Type C,Good,TV,6768.0,0-200,2-5 Years,Female,No,Vehicle,30.0,House Owner,Skilled Labor,No,No
+833,Type C,Good,Home furniture,3245.0,0-200,0-2 Years,Female,No,Property - Real Estate,22.0,Renting,Services,No,No
+834,Type C,Good,Support for Business,816.0,0-200,2-5 Years,Female,No,Savings Account,21.0,House Owner,Services,No,Yes
+835,Type C,Good,Home furniture,2054.0,0-200,2-5 Years,Female,No,Property - Real Estate,18.0,Renting,Skilled Labor,No,No
+836,Type C,critical,Buying a New Car,2804.0,0-200,2-5 Years,Male,No,Property - Real Estate,38.0,Renting,Skilled Labor,No,No
+837,Type C,Good,Home furniture,1305.0,0-200,2-5 Years,Male,Yes,Savings Account,19.0,House Owner,Services,No,Yes
+838,Type C,Good,Home Devices,1237.0,0-200,2-5 Years,Married,No,Property - Real Estate,49.0,House Owner,Services,No,No
+839,Type C,critical,Home furniture,2247.0,0-200,7+ Years,Male,No,Savings Account,58.0,House Owner,Skilled Labor,No,No
+840,Type C,critical,TV,389.0,0-200,5-7 Years,Female,No,Property - Real Estate,58.0,House Owner,Services,No,No
+841,Type C,Average (known delays),All other,1376.0,No Data,7+ Years,Male,No,Vehicle,39.0,House Owner,Professional / Management,No,No
+842,Type C,Good,Buying a New Car,1446.0,0-200,5-7 Years,Female,No,Vehicle,23.0,Renting,Skilled Labor,No,No
+843,Type C,Average (known delays),Home furniture,2836.0,500-1000,2-5 Years,Male,No,Property - Real Estate,22.0,House Owner,Skilled Labor,No,Yes
+844,Type C,Good,Home Devices,754.0,200-500,Unemployed,Female,No,Savings Account,24.0,House Owner,Skilled Labor,No,No
+845,Type C,Good,TV,3369.0,1000+,0-2 Years,Female,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+846,Type C,Average (known delays),Buying a Used Car,3640.0,0-200,2-5 Years,Female,Yes,Vehicle,24.0,Renting,Skilled Labor,Yes,No
+847,Type C,critical,Buying a New Car,3694.0,0-200,2-5 Years,Male,No,Property - Real Estate,35.0,Renting,Skilled Labor,No,No
+848,Type C,Good,Home furniture,1871.0,0-200,0-2 Years,Female,No,Vehicle,22.0,Renting,Skilled Labor,No,Yes
+849,Type C,Good,TV,2612.0,0-200,2-5 Years,Male,No,No Security,65.0,Free,Skilled Labor,No,No
+850,Type C,Good,TV,3674.0,0-200,2-5 Years,Female,No,Vehicle,29.0,House Owner,Skilled Labor,No,Yes
+851,Type C,Average (known delays),Home furniture,1571.0,0-200,2-5 Years,Male,No,Vehicle,42.0,House Owner,Skilled Labor,No,No
+852,Type C,Average (known delays),TV,4372.0,0-200,5-7 Years,Male,No,Savings Account,24.0,House Owner,Skilled Labor,No,No
+853,Type C,Good,Learning / Edu purposes,765.0,0-200,Unemployed,Female,No,Property - Real Estate,28.0,House Owner,Not Employed,No,No
+854,Type C,critical,TV,1883.0,0-200,5-7 Years,Married,No,Savings Account,30.0,House Owner,Professional / Management,No,No
+855,Type C,Good,Home furniture,4587.0,0-200,2-5 Years,Divorced,Yes,Property - Real Estate,30.0,House Owner,Skilled Labor,No,Yes
+856,Type C,Good,Learning / Edu purposes,702.0,0-200,2-5 Years,Male,No,Vehicle,39.0,Renting,Services,No,No
+857,Type C,Good,Learning / Edu purposes,7495.0,0-200,5-7 Years,Male,No,No Security,52.0,Free,Professional / Management,No,Yes
+858,Type C,Good,Buying a New Car,2317.0,0-200,7+ Years,Male,Yes,Property - Real Estate,45.0,House Owner,Skilled Labor,No,No
+859,Type C,Good,Buying a New Car,3975.0,0-200,Unemployed,Male,No,No Security,23.0,Free,Skilled Labor,No,Yes
+860,Type C,Good,Buying a New Car,906.0,No Data,2-5 Years,Married,No,Vehicle,24.0,House Owner,Skilled Labor,No,No
+861,Type C,critical,Buying a New Car,4854.0,0-200,7+ Years,Male,Yes,Savings Account,44.0,Renting,Skilled Labor,No,No
+862,Type C,Good,TV,2399.0,0-200,7+ Years,Male,No,Property - Real Estate,63.0,Renting,Services,No,Yes
+863,Type C,Good,Buying a New Car,3667.0,1000+,2-5 Years,Male,No,Savings Account,30.0,House Owner,Skilled Labor,No,Yes
+864,Type C,critical,Home furniture,983.0,0-200,2-5 Years,Divorced,No,Savings Account,27.0,House Owner,Skilled Labor,No,No
+865,Type C,critical,Buying a New Car,4720.0,No Data,0-2 Years,Male,No,Property - Real Estate,42.0,House Owner,Services,No,Yes
+866,Type C,critical,Buying a Used Car,6351.0,0-200,7+ Years,Male,No,No Security,45.0,Free,Skilled Labor,No,No
+867,Type C,Average (known delays),Learning / Edu purposes,1210.0,0-200,7+ Years,Female,No,No Security,33.0,Free,Skilled Labor,No,No
+868,Type C,critical,TV,1149.0,0-200,2-5 Years,Male,No,Property - Real Estate,24.0,House Owner,Services,No,No
+869,Type C,Good,Buying a New Car,1238.0,0-200,2-5 Years,Female,No,Property - Real Estate,24.0,House Owner,Services,No,No
+870,Type C,Good,TV,1885.0,0-200,2-5 Years,Female,No,Vehicle,27.0,Renting,Skilled Labor,No,No
+871,Type C,Good,TV,1988.0,0-200,2-5 Years,Male,No,Property - Real Estate,23.0,Renting,Services,No,No
+872,Type C,Good,Buying a New Car,4382.0,200-500,2-5 Years,Male,No,Vehicle,37.0,House Owner,Services,No,Yes
+873,Type C,Average (known delays),Buying a New Car,2330.0,200-500,5-7 Years,Male,No,Vehicle,31.0,House Owner,Skilled Labor,No,Yes
+874,Type C,Average (known delays),Home furniture,2503.0,500-1000,2-5 Years,Male,No,Property - Real Estate,20.0,House Owner,Skilled Labor,No,Yes
+875,Type C,critical,Home furniture,14183.0,No Data,5-7 Years,Male,No,Savings Account,28.0,House Owner,Professional / Management,No,Yes
+876,Type C,critical,Support for Business,1799.0,0-200,0-2 Years,Male,No,Savings Account,30.0,House Owner,Services,No,No
+877,Type C,Good,Buying a New Car,2529.0,0-200,Unemployed,Female,No,Vehicle,25.0,Renting,Skilled Labor,No,Yes
+878,Type C,Good,Buying a New Car,1277.0,0-200,0-2 Years,Female,No,Property - Real Estate,38.0,House Owner,Services,No,No
+879,Type C,Good,Home furniture,439.0,0-200,7+ Years,Female,No,Savings Account,51.0,House Owner,Skilled Labor,No,Yes
+880,Type C,Good,Buying a New Car,979.0,0-200,0-2 Years,Female,No,Vehicle,25.0,House Owner,Services,No,No
+881,Type C,Good,Buying a New Car,1298.0,No Data,5-7 Years,Female,No,No Security,34.0,Renting,Skilled Labor,No,No
+882,Type C,critical,Buying a New Car,695.0,0-200,7+ Years,Male,No,Savings Account,35.0,House Owner,Skilled Labor,No,No
+883,Type C,critical,Home furniture,2127.0,0-200,2-5 Years,Female,No,Property - Real Estate,26.0,Renting,Skilled Labor,No,No
+884,Type C,Good,TV,2225.0,0-200,2-5 Years,Male,No,Savings Account,24.0,House Owner,Services,No,Yes
+885,Type C,Good,Home furniture,3125.0,0-200,0-2 Years,Divorced,No,Savings Account,29.0,House Owner,Services,No,No
+886,Type C,Good,Buying a Used Car,2832.0,No Data,7+ Years,Female,No,Property - Real Estate,25.0,Renting,Skilled Labor,No,Yes
+887,Type C,critical,Learning / Edu purposes,8073.0,0-200,2-5 Years,Female,No,No Security,24.0,House Owner,Professional / Management,No,No
+888,Type C,Good,Buying a New Car,1373.0,No Data,2-5 Years,Female,No,Property - Real Estate,24.0,Renting,Skilled Labor,No,No
+889,Type C,Good,TV,3522.0,0-200,5-7 Years,Female,Yes,Property - Real Estate,23.0,House Owner,Skilled Labor,No,Yes
+890,Type C,critical,Learning / Edu purposes,6012.0,0-200,2-5 Years,Male,No,No Security,27.0,House Owner,Skilled Labor,No,No
+891,Type C,Good,Buying a Used Car,7522.0,No Data,7+ Years,Male,No,Savings Account,51.0,Free,Skilled Labor,No,No
+892,Type C,critical,Home furniture,4286.0,0-200,7+ Years,Female,No,Savings Account,22.0,House Owner,Skilled Labor,No,No
+893,Type C,Good,Buying a New Car,9273.0,0-200,5-7 Years,Male,No,Vehicle,22.0,House Owner,Skilled Labor,No,No
+894,Type C,critical,Buying a Used Car,9639.0,0-200,5-7 Years,Male,No,Vehicle,25.0,House Owner,Skilled Labor,No,No
+895,Type C,Good,Home Devices,3067.0,0-200,2-5 Years,Male,No,Vehicle,56.0,House Owner,Skilled Labor,No,No
+896,Type C,Good,Buying a New Car,3944.0,0-200,5-7 Years,Male,No,No Security,46.0,Free,Skilled Labor,No,No
+897,Type C,Good,All other,15865.0,0-200,Unemployed,Divorced,Yes,Vehicle,41.0,House Owner,Professional / Management,No,Yes
+898,Type C,Good,TV,1362.0,0-200,2-5 Years,Married,No,Property - Real Estate,27.0,House Owner,Skilled Labor,No,No
+899,Type C,Good,Home furniture,2728.0,0-200,7+ Years,Male,No,Savings Account,43.0,House Owner,Skilled Labor,No,No
+900,Type C,critical,Buying a New Car,749.0,0-200,7+ Years,Male,No,Property - Real Estate,45.0,House Owner,Services,No,No
+901,Type C,critical,Buying a New Car,1607.0,0-200,7+ Years,Married,No,Vehicle,32.0,House Owner,Skilled Labor,No,No
+902,Type C,critical,Buying a New Car,3979.0,0-200,7+ Years,Female,No,Property - Real Estate,35.0,Renting,Skilled Labor,No,No
+903,Type C,Good,Buying a Used Car,8336.0,No Data,7+ Years,Male,No,No Security,45.0,Free,Skilled Labor,No,No
+904,Type C,Good,Buying a New Car,1217.0,0-200,0-2 Years,Female,No,Vehicle,23.0,Renting,Skilled Labor,No,No
+905,Type C,Good,Support for Business,11828.0,0-200,7+ Years,Male,No,Vehicle,28.0,Renting,Skilled Labor,No,No
+906,Type C,Good,Buying a New Car,1090.0,0-200,2-5 Years,Male,No,Vehicle,46.0,House Owner,Skilled Labor,No,No
+907,Type C,critical,Buying a Used Car,2971.0,0-200,7+ Years,Male,No,Savings Account,62.0,House Owner,Skilled Labor,No,No
+908,Type C,Good,Home furniture,5181.0,0-200,5-7 Years,Male,No,Savings Account,28.0,House Owner,Skilled Labor,No,No
+909,Type C,Good,TV,1368.0,0-200,5-7 Years,Male,No,Property - Real Estate,57.0,House Owner,Skilled Labor,No,Yes
+910,Type C,Good,TV,714.0,0-200,7+ Years,Male,No,Property - Real Estate,58.0,House Owner,Services,No,No
+911,Type C,critical,Buying a New Car,2252.0,0-200,2-5 Years,Married,Yes,Savings Account,32.0,Renting,Skilled Labor,Yes,No
+912,Type C,Average (known delays),Buying a New Car,1459.0,0-200,5-7 Years,Male,No,No Security,32.0,Free,Services,No,No
+913,Type C,Good,Buying a New Car,3971.0,0-200,2-5 Years,Female,No,Savings Account,29.0,House Owner,Skilled Labor,No,No
+914,Type C,Good,TV,2458.0,0-200,0-2 Years,Female,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,No
+915,Type C,Good,TV,2398.0,0-200,0-2 Years,Female,No,Vehicle,27.0,House Owner,Skilled Labor,No,Yes
+916,Type C,Good,Home furniture,666.0,0-200,7+ Years,Female,No,Savings Account,25.0,Renting,Skilled Labor,No,Yes
+917,Type C,critical,Support for Business,1396.0,200-500,5-7 Years,Male,No,Property - Real Estate,27.0,House Owner,Skilled Labor,No,Yes
+918,Type C,Good,Home furniture,3596.0,0-200,2-5 Years,Male,Yes,Savings Account,30.0,House Owner,Services,No,Yes
+919,Type C,Average (known delays),TV,1958.0,0-200,0-2 Years,Male,Yes,No Security,36.0,Free,Professional / Management,No,No
+920,Type C,Good,Buying a New Car,1439.0,0-200,0-2 Years,Male,No,No Security,28.0,Free,Professional / Management,No,No
+921,Type C,Good,Learning / Edu purposes,811.0,0-200,0-2 Years,Female,No,Savings Account,55.0,House Owner,Skilled Labor,No,No
+922,Type C,critical,Support for Business,2450.0,0-200,7+ Years,Male,No,Vehicle,44.0,House Owner,Professional / Management,No,No
+923,Type C,critical,Buying a New Car,2177.0,0-200,2-5 Years,Male,No,Savings Account,37.0,House Owner,Services,Yes,No
+924,Type C,Good,TV,2612.0,0-200,0-2 Years,Female,No,Savings Account,29.0,Renting,Professional / Management,No,Yes
+925,Type C,Good,Home furniture,4160.0,0-200,2-5 Years,Male,Yes,Vehicle,44.0,House Owner,Skilled Labor,No,No
+926,Type C,critical,Buying a New Car,2631.0,0-200,7+ Years,Male,Yes,Savings Account,43.0,Renting,Skilled Labor,No,No
+927,Type C,Good,TV,1109.0,0-200,2-5 Years,Male,No,Property - Real Estate,22.0,Renting,Professional / Management,No,Yes
+928,Type C,Good,Buying a New Car,3768.0,No Data,5-7 Years,Male,Yes,Property - Real Estate,24.0,House Owner,Services,Yes,Yes
+929,Type C,Average (known delays),Support for Business,3166.0,0-200,2-5 Years,Male,No,Savings Account,31.0,Renting,Skilled Labor,No,No
+930,Type C,Good,Buying a New Car,14912.0,0-200,7+ Years,Male,No,No Security,69.0,House Owner,Professional / Management,No,No
+931,Type C,Good,Home furniture,2373.0,200-500,Unemployed,Divorced,No,Savings Account,32.0,House Owner,Skilled Labor,No,No
+932,Type C,Good,Home furniture,3365.0,0-200,7+ Years,Male,No,Savings Account,40.0,Renting,Professional / Management,No,No
+933,Type C,Good,TV,1368.0,0-200,0-2 Years,Female,No,Savings Account,23.0,Renting,Skilled Labor,No,No
+934,Type C,Average (known delays),Home furniture,6882.0,0-200,0-2 Years,Divorced,No,Savings Account,57.0,House Owner,Skilled Labor,No,No
+935,Type C,Average (known delays),Buying a New Car,712.0,0-200,0-2 Years,Male,No,Vehicle,46.0,House Owner,Skilled Labor,No,No
+936,Type C,critical,Home furniture,1055.0,0-200,0-2 Years,Female,No,Savings Account,19.0,Renting,Skilled Labor,No,No
+937,Type C,Good,Buying a Used Car,10309.0,0-200,5-7 Years,Male,No,No Security,41.0,Free,Skilled Labor,No,No
+938,Type C,Average (known delays),Buying a New Car,1349.0,0-200,2-5 Years,Male,No,Property - Real Estate,44.0,House Owner,Services,No,No
+939,Type C,Good,Home furniture,1757.0,0-200,0-2 Years,Male,Yes,Savings Account,24.0,House Owner,Services,Yes,Yes
+940,Type C,Good,TV,1514.0,0-200,2-5 Years,Female,No,Vehicle,23.0,House Owner,Skilled Labor,No,Yes
+941,Type C,Good,Home furniture,1859.0,0-200,0-2 Years,Female,Yes,Savings Account,45.0,Renting,Skilled Labor,No,Yes
+942,Type C,Average (known delays),Home furniture,3364.0,500-1000,0-2 Years,Male,No,No Security,30.0,Free,Skilled Labor,No,No
+943,Type C,Average (known delays),Support for Business,2165.0,0-200,5-7 Years,Male,No,Vehicle,24.0,House Owner,Skilled Labor,No,No
+944,Type C,Good,Buying a New Car,1894.0,0-200,2-5 Years,Female,Yes,Savings Account,27.0,House Owner,Skilled Labor,No,Yes
+945,Type C,critical,TV,1244.0,1000+,7+ Years,Female,No,Savings Account,57.0,Renting,Professional / Management,No,Yes
+946,Type C,Good,Buying a New Car,4009.0,0-200,2-5 Years,Male,No,Vehicle,45.0,House Owner,Services,No,No
+947,Type C,critical,Buying a New Car,3948.0,0-200,2-5 Years,Male,No,Property - Real Estate,42.0,House Owner,Services,No,No
+948,Type C,Average (known delays),Buying a New Car,1194.0,0-200,Unemployed,Female,Yes,No Security,27.0,Renting,Not Employed,No,No
+949,Type C,Good,Support for Business,7302.0,0-200,7+ Years,Male,Yes,No Security,37.0,Renting,Skilled Labor,No,No
+950,Type C,Good,Buying a Used Car,8245.0,0-200,2-5 Years,Male,No,Savings Account,25.0,House Owner,Skilled Labor,No,No
+951,Type C,critical,Home furniture,1443.0,0-200,2-5 Years,Female,No,Savings Account,26.0,Renting,Skilled Labor,No,No
+952,Type C,Good,Buying a Used Car,6596.0,0-200,Unemployed,Male,No,No Security,30.0,Free,Professional / Management,No,Yes
+953,Type C,Good,TV,1941.0,No Data,5-7 Years,Married,No,Vehicle,23.0,Renting,Services,No,Yes
+954,Type C,Good,Home furniture,3962.0,0-200,Unemployed,Male,No,Savings Account,31.0,House Owner,Professional / Management,No,Yes
+955,Type C,Good,Buying a Used Car,3871.0,0-200,2-5 Years,Divorced,No,Savings Account,42.0,House Owner,Professional / Management,No,Yes
+956,Type C,Good,TV,1848.0,0-200,2-5 Years,Male,No,No Security,21.0,Free,Skilled Labor,No,No
+957,Type C,Average (known delays),Buying a New Car,791.0,No Data,2-5 Years,Male,Yes,Property - Real Estate,27.0,House Owner,Services,No,Yes
+958,Type C,Average (known delays),TV,937.0,0-200,2-5 Years,Female,No,Property - Real Estate,23.0,House Owner,Skilled Labor,No,No
+959,Type C,Average (known delays),Buying a New Car,6472.0,0-200,7+ Years,Male,No,No Security,38.0,House Owner,Professional / Management,No,No
+960,Type C,Average (known delays),Buying a Used Car,8628.0,1000+,2-5 Years,Male,No,Vehicle,26.0,House Owner,Skilled Labor,No,Yes
+961,Type C,Average (known delays),Buying a Used Car,7494.0,No Data,Unemployed,Female,No,Property - Real Estate,54.0,House Owner,Professional / Management,No,No
+962,Type C,Average (known delays),Support for Business,9586.0,0-200,0-2 Years,Divorced,No,Vehicle,27.0,House Owner,Skilled Labor,No,No
+963,Type C,Average (known delays),Support for Business,5123.0,0-200,5-7 Years,Male,No,Vehicle,26.0,House Owner,Skilled Labor,No,No
+964,Type C,Average (known delays),Support for Business,2981.0,No Data,2-5 Years,Male,No,Property - Real Estate,34.0,House Owner,Skilled Labor,No,Yes
+965,Type C,Average (known delays),Advance Edu/training,3463.0,500-1000,2-5 Years,Female,No,Property - Real Estate,36.0,House Owner,Services,No,Yes
+966,Type C,Average (known delays),Home furniture,4157.0,200-500,2-5 Years,Male,No,Savings Account,34.0,House Owner,Skilled Labor,No,Yes
+967,Type C,Average (known delays),Support for Business,1761.0,200-500,2-5 Years,Male,No,Property - Real Estate,32.0,House Owner,Services,No,Yes
+968,Type C,Average (known delays),TV,4467.0,0-200,2-5 Years,Male,No,Vehicle,25.0,House Owner,Professional / Management,No,No
+969,Type C,Average (known delays),TV,2327.0,0-200,Unemployed,Married,No,Property - Real Estate,36.0,House Owner,Skilled Labor,No,No
+970,Type C,Average (known delays),TV,849.0,No Data,7+ Years,Male,No,No Security,37.0,Free,Skilled Labor,No,Yes
+971,Type C,Average (known delays),Support for Business,4278.0,200-500,2-5 Years,Male,No,Savings Account,24.0,House Owner,Services,No,Yes
+972,Type C,Average (known delays),Support for Business,8655.0,0-200,0-2 Years,Male,No,Vehicle,25.0,House Owner,Skilled Labor,No,No
+973,Type C,Average (known delays),Buying a New Car,811.0,0-200,2-5 Years,Male,No,Vehicle,26.0,House Owner,Services,No,No
+974,Type C,Average (known delays),Home furniture,1601.0,200-500,5-7 Years,Male,No,Property - Real Estate,35.0,House Owner,Professional / Management,No,Yes
+975,Type C,Average (known delays),TV,7250.0,No Data,7+ Years,Male,No,Vehicle,33.0,House Owner,Skilled Labor,No,Yes
+976,Type C,Average (known delays),Support for Business,2771.0,0-200,2-5 Years,Female,No,Vehicle,25.0,House Owner,Skilled Labor,No,No
+977,Type C,Average (known delays),Buying a Used Car,4685.0,0-200,5-7 Years,Male,No,Vehicle,37.0,House Owner,Services,No,No
+978,Type C,Average (known delays),Home furniture,977.0,1000+,5-7 Years,Female,No,Savings Account,28.0,House Owner,Skilled Labor,No,Yes
+979,Type C,Average (known delays),Buying a Used Car,1513.0,0-200,2-5 Years,Married,No,Property - Real Estate,43.0,Renting,Skilled Labor,No,No
+980,Type C,Average (known delays),Buying a New Car,2038.0,0-200,7+ Years,Male,No,No Security,60.0,Free,Skilled Labor,No,No
+981,Type C,Average (known delays),TV,1764.0,500-1000,7+ Years,Male,No,Savings Account,44.0,House Owner,Services,No,Yes
+982,Type C,Average (known delays),Support for Business,3883.0,0-200,2-5 Years,Male,No,No Security,33.0,Free,Skilled Labor,No,No
+983,Type C,Average (known delays),Home furniture,1815.0,0-200,5-7 Years,Female,No,Property - Real Estate,23.0,House Owner,Skilled Labor,No,No
+984,Type C,Average (known delays),TV,15666.0,0-200,5-7 Years,Male,No,Vehicle,20.0,House Owner,Skilled Labor,No,No
+985,Type C,Average (known delays),Support for Business,7991.0,No Data,0-2 Years,Male,No,Vehicle,29.0,Renting,Skilled Labor,No,No
+986,Type C,Average (known delays),Support for Business,3618.0,0-200,2-5 Years,Female,No,Property - Real Estate,27.0,House Owner,Skilled Labor,No,No
+987,Type C,Average (known delays),Support for Business,2592.0,500-1000,0-2 Years,Male,No,Property - Real Estate,40.0,House Owner,Services,No,No
+988,Type C,Average (known delays),TV,1496.0,0-200,2-5 Years,Married,No,Property - Real Estate,33.0,House Owner,Skilled Labor,No,No
+989,Type C,Average (known delays),Renovation,1556.0,1000+,7+ Years,Male,No,No Security,56.0,Free,Skilled Labor,No,No
+990,Type C,Average (known delays),Buying a New Car,724.0,No Data,7+ Years,Married,No,Vehicle,55.0,House Owner,Skilled Labor,No,Yes
+991,Type C,Average (known delays),Support for Business,2386.0,500-1000,2-5 Years,Male,No,Vehicle,45.0,House Owner,Skilled Labor,No,Yes
+992,Type C,Average (known delays),Buying a Used Car,2997.0,0-200,2-5 Years,Male,No,Property - Real Estate,30.0,House Owner,Services,No,No
+993,Type C,Average (known delays),Support for Business,1573.0,0-200,5-7 Years,Male,No,Vehicle,49.0,House Owner,Skilled Labor,No,No
+994,Type C,Average (known delays),Buying a New Car,10892.0,0-200,7+ Years,Male,No,Vehicle,45.0,House Owner,Skilled Labor,No,No
+995,Type C,Average (known delays),Support for Business,2174.0,0-200,2-5 Years,Married,No,Vehicle,26.0,House Owner,Skilled Labor,No,No
+996,Type C,Average (known delays),Home furniture,7686.0,500-1000,5-7 Years,Female,No,Vehicle,42.0,House Owner,Skilled Labor,No,Yes
+997,Type C,Average (known delays),Buying a Used Car,7827.0,No Data,0-2 Years,Male,Yes,Property - Real Estate,41.0,Renting,Skilled Labor,No,Yes
+998,Type C,Average (known delays),Buying a Used Car,8950.0,No Data,5-7 Years,Male,No,Vehicle,32.0,House Owner,Professional / Management,No,Yes
+999,Type C,Average (known delays),Buying a Used Car,3602.0,0-200,0-2 Years,Female,No,Savings Account,47.0,House Owner,Services,No,No
+1000,Type C,Average (known delays),TV,4473.0,0-200,2-5 Years,Female,No,Property - Real Estate,35.0,House Owner,Skilled Labor,No,No
+1001,Type C,Average (known delays),TV,12759.0,500-1000,5-7 Years,Male,No,Vehicle,38.0,House Owner,Professional / Management,No,Yes
+1002,Type C,Average (known delays),Buying a New Car,2551.0,0-200,7+ Years,Male,No,Vehicle,47.0,House Owner,Services,No,No
+1003,Type C,Average (known delays),TV,1587.0,200-500,7+ Years,Male,No,Vehicle,35.0,House Owner,Services,No,Yes
+1004,,,,,,,,,,43.0,House Owner,Services,No,
+1005,,,,1765.0,0-201,,,,,,,,,
